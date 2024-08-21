@@ -5,7 +5,7 @@ Categorization
 2/是否需要对每个类别添加描述或关键词或关键模型？
 ```
 - Survey
-- Speech-Text LLM
+- Speech/Audio-Text LLM
 - Speech Tokenizer
 - Speech Recognition & Translation
 - Self-supervise Pretrain Speech Model
