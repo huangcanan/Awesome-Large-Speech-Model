@@ -1,2 +1,2 @@
-- MM-LLMs: Recent Advances in MultiModal Large Language Models, 2024, ACL Findings [[Paper](https://arxiv.org/pdf/2401.13601)][[github.io](https://mm-llms.github.io/)]
+- MM-LLMs: Recent Advances in MultiModal Large Language Models, 2024, ACL Findings [[Paper](https://arxiv.org/pdf/2401.13601)] [[github.io](https://mm-llms.github.io/)]
 - Sparks of Large Audio Models: A Survey and Outlook, 2023, arXiv [[Paper](https://arxiv.org/pdf/2308.12792)]
