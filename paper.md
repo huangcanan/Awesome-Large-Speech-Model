@@ -5,7 +5,7 @@
 - [Speech/Audio-Text LLM](#subtitle2)
 - [Speech Tokenization/Discretization](#subtitle3)
 - [Speech Recognition & Translation](#subtitle4)
-- [Self-supervise Pretrain Speech Model](#subtitle5)
+- [Self-supervised Pretrain Speech Model](#subtitle5)
 - [Speech Synthesis](#subtitle6)
 - [Audio/Music/Others](#subtitle7)
 
