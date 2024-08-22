@@ -7,7 +7,7 @@
 - [Survey](#Survey)
 - [Speech/Audio-Text LLM](#Speech/Audio-Text-Large-Language-Model)
 - [Speech Tokenization/Discretization](#Speech-Tokenization/Discretization)
-- [Speech Recognition & Translation](#Speech-Recognition-&-Translation)
+- [Speech Recognition & Translation](#Speech-Recognition-Translation)
 - [Self-supervise Pretrain Speech Model](#Self-supervise-Pretrain-Speech-Model)
 - [Speech Synthesis](#Speech-Synthesis)
 - [Audio/Music/Others](#Audio/Music/Others)
