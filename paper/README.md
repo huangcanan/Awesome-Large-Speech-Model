@@ -7,7 +7,7 @@
 - [Survey](#Survey)
 - [Speech/Audio-Text LLM](#Speech/Audio-Text-Large-Language-Model)
 - [Speech Tokenization/Discretization](#Speech-Tokenization/Discretization)
-- [Speech Recognition & Translation](#Speech-Recognition-&-Translation)
+- [Speech Recognition & Translation](#subtitle4)
 - [Self-supervise Pretrain Speech Model](#Self-supervise-Pretrain-Speech-Model)
 - [Speech Synthesis](#Speech-Synthesis)
 - [Audio/Music/Others](#Audio/Music/Others)
@@ -29,7 +29,7 @@
 - **Finite Scalar Quantization: VQ-VAE Made Simple** , 2023 , arXiv [[paper](https://arxiv.org/pdf/2309.15505)] [[github](https://github.com/google-research/google-research/tree/master/fsq)]
 - **High Fidelity Neural Audio Compression** , 2022, arXiv [[paper](https://arxiv.org/pdf/2210.13438)] [[github](https://github.com/facebookresearch/encodec)] , Remark: Encodec
 
-## Speech Recognition & Translation<a name="Speech-Recognition-&-Translation"></a>
+## Speech Recognition & Translation<a name="subtitle4"></a>
 
 ## Self-supervise Pretrain Speech Model<a name="Self-supervise-Pretrain-Speech-Model"></a>
 
