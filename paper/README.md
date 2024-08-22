@@ -6,11 +6,11 @@
 ## Categorization
 - [Survey](#Survey)
 - [Speech/Audio-Text LLM](#Speech/Audio-Text-Large-Language-Model)
-- Speech Tokenizer
-- Speech Recognition & Translation
-- Self-supervise Pretrain Speech Model
-- Speech Synthesis
-- Audio/Music/Others
+- [Speech Tokenization/Discretization](#Speech-Tokenization/Discretization)
+- [Speech Recognition & Translation](#Speech-Recognition-&-Translation)
+- [Self-supervise Pretrain Speech Model](#Self-supervise-Pretrain-Speech-Model)
+- [Speech Synthesis](#Speech-Synthesis)
+- [Audio/Music/Others](#Audio/Music/Others)
 
 
 ## Survey
@@ -25,7 +25,7 @@
 - **SpeechGPT: Empowering Large Language Models with Intrinsic Cross-Modal Conversational Abilities** , 2023 , EMNLP [[paper](https://arxiv.org/pdf/2305.11000)] [[github](https://github.com/0nutation/SpeechGPT)]
 - **Pengi: An Audio Language Model for Audio Tasks** , 2023 , NeurIPS [[paper](https://arxiv.org/pdf/2305.11834)] [[github](https://github.com/microsoft/Pengi)]
 
-## Speech Tokenizer/Discretization
+## Speech Tokenization/Discretization
 - **Finite Scalar Quantization: VQ-VAE Made Simple** , 2023 , arXiv [[paper](https://arxiv.org/pdf/2309.15505)] [[github](https://github.com/google-research/google-research/tree/master/fsq)]
 - **High Fidelity Neural Audio Compression** , 2022, arXiv [[paper](https://arxiv.org/pdf/2210.13438)] [[github](https://github.com/facebookresearch/encodec)] , Remark: Encodec
 
@@ -34,6 +34,8 @@
 ## Self-supervise Pretrain Speech Model
 
 ## Speech Synthesis
+- **Boosting Large Language Model for Speech Synthesis: An Empirical Study** , 2023 , arXiv [[paper](https://arxiv.org/pdf/2401.00246)]
+- **Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers** , 2023 , arXiv [[paper](https://arxiv.org/pdf/2301.02111)] [[github](https://github.com/lifeiteng/vall-e)] , Remark: VALL-E
 
 ## Audio/Music/Others
 - **AudioLM: a Language Modeling Approach to Audio Generation** , 2022 , arXiv [[paper](https://arxiv.org/pdf/2209.03143)] [[github.io](https://google-research.github.io/seanet/audiolm/examples/)]
