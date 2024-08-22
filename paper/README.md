@@ -4,7 +4,7 @@
 2/是否需要对每个类别添加描述或关键词或关键模型？
 ```
 ## Categorization
-- [Survey](#Survey)
+- [Survey](#subtitle-1)
 - [Speech/Audio-Text LLM](#Speech/Audio-Text-Large-Language-Model)
 - [Speech Tokenization/Discretization](#Speech-Tokenization/Discretization)
 - [Speech Recognition & Translation](#Speech-Recognition-Translation)
@@ -13,7 +13,7 @@
 - [Audio/Music/Others](#Audio/Music/Others)
 
 
-## Survey
+## Survey<a name="subtitle-1"></a>
 - **A Comprehensive Review of Multimodal Large Language Models: Performance and Challenges Across Different Tasks** , 2024 , arXiv [[paper](https://arxiv.org/pdf/2408.01319)]
 - **MM-LLMs: Recent Advances in MultiModal Large Language Models** , 2024 , ACL [[paper](https://arxiv.org/pdf/2401.13601)] [[github.io](https://mm-llms.github.io/)]
 - **Sparks of Large Audio Models: A Survey and Outlook** , 2023 , arXiv [[paper](https://arxiv.org/pdf/2308.12792)]
