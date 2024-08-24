@@ -28,6 +28,7 @@
 - **AudioPaLM: A Large Language Model That Can Speak and Listen** , 2023 , arXiv [[paper](https://arxiv.org/pdf/2306.12925)] [[github.io](https://google-research.github.io/seanet/audiopalm/examples/)]
 
 ## Speech Tokenization/Discretization<a id="subtitle3"></a>
+- **RepCodec: A Speech Representation Codec for Speech Tokenization** , 2024 , ACL [[paper](https://arxiv.org/pdf/2309.00169)] [[github](https://github.com/mct10/RepCodec)]
 - **Single-Codec: Single-Codebook Speech Codec towards High-Performance Speech Generation** , 2024 , Interspeech [[paper](https://arxiv.org/pdf/2406.07422)] [[github.io](https://kkksuper.github.io/Single-Codec/)]
 - **ToneUnit: A Speech Discretization Approach for Tonal Language Speech Synthesis** , 2024 , arXiv [[paper](https://arxiv.org/pdf/2406.08989)] [[github.io](https://toneunit1225.github.io/)]
 - **SpeechTokenizer: Unified Speech Tokenizer for Speech Large Language Models** , 2024 , ICLR [[paper](https://arxiv.org/pdf/2308.16692)] [[github](https://github.com/ZhangXInFD/SpeechTokenizer)]
