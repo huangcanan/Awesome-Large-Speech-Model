@@ -61,4 +61,5 @@
 - **Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers** , 2023 , arXiv [[paper](https://arxiv.org/pdf/2301.02111)] [[github](https://github.com/lifeiteng/vall-e)] , Remark: VALL-E
 
 ## Audio/Music/Others<a id="subtitle7"></a>
+- **MusicLM: Generating Music From Text** , 2023 , arXiv [[paper](https://arxiv.org/pdf/2301.11325)] [[github.io](https://google-research.github.io/seanet/musiclm/examples/)]
 - **AudioLM: a Language Modeling Approach to Audio Generation** , 2022 , arXiv [[paper](https://arxiv.org/pdf/2209.03143)] [[github.io](https://google-research.github.io/seanet/audiolm/examples/)]
