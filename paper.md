@@ -2,7 +2,7 @@
 
 ## Categorization
 - [Survey](#subtitle1)
-- [Speech/Audio-Text LLM](#subtitle2)
+- [Speech/Audio-Extended LLM](#subtitle2)
 - [Speech Tokenization/Discretization](#subtitle3)
 - [Speech Recognition & Translation](#subtitle4)
 - [Self-supervised Pretrain Speech Model](#subtitle5)
@@ -16,7 +16,8 @@
 - **A Survey on Multimodal Large Language Models** , 2023 , arXiv [[paper](https://arxiv.org/pdf/2306.13549)] [[github](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)]
 - **Sparks of Large Audio Models: A Survey and Outlook** , 2023 , arXiv [[paper](https://arxiv.org/pdf/2308.12792)]
 
-## Speech/Audio-Text Large Language Model<a id="subtitle2"></a>
+## Speech/Audio-Extended Large Language Model<a id="subtitle2"></a>
+- **Lumina-T2X: Transforming Text into Any Modality, Resolution, and Duration via Flow-based Large Diffusion Transformers** , 2024 , arXiv [[paper](https://arxiv.org/pdf/2405.05945)] [[github](https://github.com/Alpha-VLLM/Lumina-T2X)]
 - **VITA: Towards Open-Source Interactive Omni Multimodal LLM** , 2024 , arXiv [[paper](https://arxiv.org/pdf/2408.05211)] [[github.io](https://vita-home.github.io/)]
 - **Qwen2-Audio Technical Report** , 2024 , arXiv [[paper](https://arxiv.org/pdf/2407.10759)] [[github](https://github.com/QwenLM/Qwen2-Audio)]
 - **NExT-GPT: Any-to-Any Multimodal LLM** , 2024 , ICML [[paper](https://arxiv.org/pdf/2309.05519)] [[github](https://github.com/NExT-GPT/NExT-GPT)]
