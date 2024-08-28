@@ -61,9 +61,11 @@
 - **Boosting Large Language Model for Speech Synthesis: An Empirical Study** , 2023 , arXiv [[paper](https://arxiv.org/pdf/2401.00246)]
 - **SoundStorm: Efficient Parallel Audio Generation** , 2023 , arXiv [[paper](https://arxiv.org/pdf/2305.09636)] [[github.io](https://google-research.github.io/seanet/soundstorm/examples/)]
 - **Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers** , 2023 , arXiv [[paper](https://arxiv.org/pdf/2301.02111)] [[github](https://github.com/lifeiteng/vall-e)] , Remark: VALL-E
+- **PromptTTS: Controllable Text-to-Speech with Text Descriptions** , 2022 , arXiv [[paper](https://arxiv.org/pdf/2211.12171)] [[github.io](https://speechresearch.github.io/prompttts/)]
 
 ## Audio/Music/Others<a id="subtitle7"></a>
 - **M2UGen: Multi-modal Music Understanding and Generation with the Power of Large Language Models** , 2024 , arXiv [[paper](https://arxiv.org/pdf/2311.11255)] [[github](https://github.com/shansongliu/M2UGen)]
+- **SingSong: Generating musical accompaniments from singing** , 2023 , arXiv [[paper](https://arxiv.org/pdf/2301.12662)] [[example](https://storage.googleapis.com/sing-song/index.html)]
 - **Simple and Controllable Music Generation** , 2023 , NeurIPS , [[paper](https://arxiv.org/pdf/2306.05284)] [[github](https://github.com/facebookresearch/audiocraft)]
 - **AUDIT: Audio Editing by Following Instructions with Latent Diffusion Models** , 2023 , NeurIPS , [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/e1b619a9e241606a23eb21767f16cf81-Paper-Conference.pdf)] [[github.io](https://audioldm.github.io/)]
 - **Text-to-Audio Generation using Instruction-Tuned LLM and Latent Diffusion Model** , 2023 , arXiv [[paper](https://arxiv.org/pdf/2304.13731)] [[github](https://github.com/declare-lab/tango)] [[github.io](https://tango-web.github.io/)]
