@@ -24,3 +24,4 @@ Only common benchmarks and training datasets are listed here.
 | MSR-86K [[download](https://huggingface.co/datasets/Alex-Song/MSR-86K)] | Multilingual | ASR | 86k |
 | WenetSpeech4TTS [[download](https://huggingface.co/datasets/Wenetspeech4TTS/WenetSpeech4TTS)] | Mandarin | TTS | 10k |
 | Emilia [[download](https://huggingface.co/datasets/amphion/Emilia-Dataset)] | Multilingual | TTS | 101k |
+| AudioCaps [[download](https://huggingface.co/datasets/d0rj/audiocaps)] | - | AC | - |
