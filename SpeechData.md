@@ -1,8 +1,6 @@
 # Speech data
 
 Only common benchmarks and large-scale training datasets are listed here.
-
-## outline
 - Speech Recognition & Translation
 - Speech Synthesis
 - Audio Caption
