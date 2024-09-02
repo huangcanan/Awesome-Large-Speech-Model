@@ -1,13 +1,11 @@
 # Speech data
 
-Only common benchmarks and training datasets are listed here.
+Only common benchmarks and large-scale training datasets are listed here.
 
 ## outline
 - Speech Recognition & Translation
 - Speech Synthesis
-- Speech Emotion Detection
 - Audio Caption
-- Others
 
 |datasets|language|task|duration/hours|
 | :---- | :---: | :---: | :---: |
