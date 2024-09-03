@@ -1,4 +1,4 @@
-## Voice-related applications
+## Applications
 - **GPT-4o** [[link](https://openai.com/index/hello-gpt-4o/)]
 - **Moshi** [[link](https://moshi.chat/)]
 - **heygen** [[link](https://www.heygen.com/)]
