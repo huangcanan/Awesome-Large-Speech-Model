@@ -7,6 +7,8 @@
 
 ## Tools
 - **Silero VAD**: a pre-trained enterprise-grade Voice Activity Detector. [[github](https://github.com/snakers4/silero-vad)]
+- **ESPnet**: ESPnet: end-to-end speech processing toolkit [[github](https://github.com/espnet/espnet)]
+- **Amphion**: An Open-Source Audio, Music, and Speech Generation Toolkit [[github](https://github.com/open-mmlab/Amphion)]
 - **huggingface speech-to-speech**: an effort for an open-sourced and modular GPT4-o. [[github](https://github.com/huggingface/speech-to-speech)]
 - **fast-whisper**: faster-whisper is a reimplementation of OpenAI's Whisper model using CTranslate2, which is a fast inference engine for Transformer models. [[github](https://github.com/SYSTRAN/faster-whisper)]
 - **whisper_streaming**: Whisper realtime streaming for long speech-to-text transcription and translation. [[github](https://github.com/ufal/whisper_streaming)]
