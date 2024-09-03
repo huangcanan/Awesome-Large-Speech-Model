@@ -6,4 +6,4 @@ This repo will be updated continuously ...
 ## outlines
 - [paper](paper.md)
 - [data](SpeechData.md)
-- [applications & tools & open-source models](application&tool$model.md)
+- [applications & tools & open-source models](application&tool&model.md)
