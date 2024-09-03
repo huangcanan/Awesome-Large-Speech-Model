@@ -33,6 +33,7 @@
 - **AudioPaLM: A Large Language Model That Can Speak and Listen** , 2023 , arXiv [[paper](https://arxiv.org/pdf/2306.12925)] [[github.io](https://google-research.github.io/seanet/audiopalm/examples/)]
 
 ## Speech Tokenization/Discretization<a id="subtitle3"></a>
+- **WavTokenizer: an Efficient Acoustic Discrete Codec Tokenizer for Audio Language Modeling** , 2024 , arXiv [[paper](https://arxiv.org/pdf/2408.16532)] [[github](https://github.com/jishengpeng/WavTokenizer)] [[github.io](https://wavtokenizer.github.io/)]
 - **RepCodec: A Speech Representation Codec for Speech Tokenization** , 2024 , ACL [[paper](https://arxiv.org/pdf/2309.00169)] [[github](https://github.com/mct10/RepCodec)]
 - **FunCodec: A Fundamental, Reproducible and Integrable Open-source Toolkit for Neural Speech Codec** , 2024 , arXiv [[paper](https://arxiv.org/pdf/2309.07405)] [[github](https://github.com/modelscope/FunCodec)] [[github.io](https://funcodec.github.io/)]
 - **Single-Codec: Single-Codebook Speech Codec towards High-Performance Speech Generation** , 2024 , Interspeech [[paper](https://arxiv.org/pdf/2406.07422)] [[github.io](https://kkksuper.github.io/Single-Codec/)]
