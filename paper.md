@@ -31,6 +31,7 @@
 
 ## Speech Tokenization/Discretization<a id="subtitle3"></a>
 - **RepCodec: A Speech Representation Codec for Speech Tokenization** , 2024 , ACL [[paper](https://arxiv.org/pdf/2309.00169)] [[github](https://github.com/mct10/RepCodec)]
+- **FunCodec: A Fundamental, Reproducible and Integrable Open-source Toolkit for Neural Speech Codec** , 2024 , arXiv [[paper](https://arxiv.org/pdf/2309.07405)] [[github](https://github.com/modelscope/FunCodec)] [[github.io](https://funcodec.github.io/)]
 - **Single-Codec: Single-Codebook Speech Codec towards High-Performance Speech Generation** , 2024 , Interspeech [[paper](https://arxiv.org/pdf/2406.07422)] [[github.io](https://kkksuper.github.io/Single-Codec/)]
 - **ToneUnit: A Speech Discretization Approach for Tonal Language Speech Synthesis** , 2024 , arXiv [[paper](https://arxiv.org/pdf/2406.08989)] [[github.io](https://toneunit1225.github.io/)]
 - **SpeechTokenizer: Unified Speech Tokenizer for Speech Large Language Models** , 2024 , ICLR [[paper](https://arxiv.org/pdf/2308.16692)] [[github](https://github.com/ZhangXInFD/SpeechTokenizer)]
