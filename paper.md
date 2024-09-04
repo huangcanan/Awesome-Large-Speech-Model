@@ -25,6 +25,7 @@
 - **Qwen2-Audio Technical Report** , 2024 , arXiv [[paper](https://arxiv.org/pdf/2407.10759)] [[github](https://github.com/QwenLM/Qwen2-Audio)]
 - **NExT-GPT: Any-to-Any Multimodal LLM** , 2024 , ICML [[paper](https://arxiv.org/pdf/2309.05519)] [[github](https://github.com/NExT-GPT/NExT-GPT)]
 - **AnyGPT: Unified Multimodal LLM with Discrete Sequence Modeling** , 2024 , arXiv [[paper](https://arxiv.org/abs/2402.12226)] [[github](https://github.com/OpenMOSS/AnyGPT)]
+- **An Embarrassingly Simple Approach for LLM with Strong ASR Capacity** ， 2024 ， arXiv [[paper](An Embarrassingly Simple Approach for LLM with Strong ASR Capacity)] [[github](https://github.com/X-LANCE/SLAM-LLM)]
 - **SALMONN: Towards Generic Hearing Abilities for Large Language Models** , 2024 , ICLR [[paper](https://openreview.net/pdf?id=14rn7HpKVk)] [[github](https://github.com/bytedance/SALMONN)]
 - **LauraGPT: Listen, Attend, Understand, and Regenerate Audio with GPT** , 2023 , arXiv [[paper](https://arxiv.org/pdf/2310.04673)] [[github.io](https://lauragpt.github.io/)] 
 - **Qwen-Audio: Advancing Universal Audio Understanding via Unified Large-Scale Audio-Language Models** , 2023 , arXiv [[paper](https://arxiv.org/pdf/2311.07919)] [[github](https://github.com/QwenLM/Qwen-Audio)]
