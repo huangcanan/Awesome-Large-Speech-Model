@@ -12,7 +12,7 @@ This repo will be updated continuously ...
   - [Self-supervised Pretrain Speech Model](#paper5)
   - [Speech Tokenization/Discretization](#paper6)
   - [Audio/Music/Others](#paper7)
-- [Open-source Large Speech/Audio models](#model)
+- [Open-source Large Speech/Audio Models](#model)
 - [Data](#data)
 - [Tools](#tool)
 - [Applications](#application)
