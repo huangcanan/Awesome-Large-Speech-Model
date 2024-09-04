@@ -12,7 +12,7 @@ This repo will be updated continuously ...
   - [Self-supervised Pretrain Speech Model](#paper5)
   - [Speech Tokenization/Discretization](#paper6)
   - [Audio/Music/Others](#paper7)
-- [Open-source models](#model)
+- [Open-source Large Speech/Audio models](#model)
 - [Data](#data)
 - [Tools](#tool)
 - [Applications](#application)
@@ -88,7 +88,7 @@ This repo will be updated continuously ...
 - **MuLan: A Joint Embedding of Music Audio and Natural Language** , 2022 , ISMIR [[paper](https://arxiv.org/pdf/2208.12415)] [[github](https://github.com/lucidrains/musiclm-pytorch)]
 - **AudioLM: a Language Modeling Approach to Audio Generation** , 2022 , arXiv [[paper](https://arxiv.org/pdf/2209.03143)] [[github.io](https://google-research.github.io/seanet/audiolm/examples/)]
 
-## Open-source large speech models<a id="model"></a>
+## Open-source Large Speech/Audio Models<a id="model"></a>
 - **Whisper** [[github](https://github.com/openai/whisper)]
 - **seamlessM4T** [[github](https://github.com/facebookresearch/seamless_communication)]
 - **SenseVoice** [[github](https://github.com/FunAudioLLM/SenseVoice)]
