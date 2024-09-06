@@ -89,7 +89,9 @@ This repo will be updated continuously ...
 - **AudioLM: a Language Modeling Approach to Audio Generation** , 2022 , arXiv [[paper](https://arxiv.org/pdf/2209.03143)] [[github.io](https://google-research.github.io/seanet/audiolm/examples/)]
 
 ## Open-source Large Speech/Audio Models<a id="model"></a>
-- **Whisper** [[github](https://github.com/openai/whisper)]
+- **Whisper** 
+  - Developer by OpenAI [[github](https://github.com/openai/whisper)] ![](https://img.shields.io/github/stars/openai/whisper.svg)
+  - Introduction: Whisper is a general-purpose speech recognition model. It is trained on a large dataset of diverse audio and is also a multitasking model that can perform **multilingual speech recognition**, **speech translation**, and **language identification**. It supports speech recognition for 100 languages. Five model sizes are trained, including tiny(39 M), base(74 M), small(244 M), medium(769 M), large(1550 M) and the newest large v3 model is trained on 5M hours of labeled data.
 - **seamlessM4T** [[github](https://github.com/facebookresearch/seamless_communication)]
 - **SenseVoice** [[github](https://github.com/FunAudioLLM/SenseVoice)]
 - **CosyVoice** [[github](https://github.com/FunAudioLLM/CosyVoice)]
