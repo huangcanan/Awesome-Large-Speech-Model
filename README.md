@@ -49,6 +49,7 @@ This repo will be updated continuously ...
 - **Robust Speech Recognition via Large-Scale Weak Supervision** , 2022 , arXiv [[paper](https://arxiv.org/pdf/2212.04356)] [[github](https://github.com/openai/whisper)] , Remark: Whisper
 
 ### Speech Synthesis<a id="paper4"></a>
+- **Natural language guidance of high-fidelity text-to-speech with synthetic annotations** , 2024 , arXiv [[paper](https://arxiv.org/pdf/2402.01912)]  [[demo](https://www.text-description-to-speech.com/)]
 - **CosyVoice: A Scalable Multilingual Zero-shot Text-to-speech Synthesizer based on Supervised Semantic Tokens** , 2024 , arXiv [[paper](https://arxiv.org/pdf/2407.05407)] [[github](https://github.com/FunAudioLLM/CosyVoice)] [[github.io](https://fun-audio-llm.github.io/)]
 - **Seed-TTS: A Family of High-Quality Versatile Speech Generation Models** , 2024 , arXiv [[paper](https://arxiv.org/pdf/2406.02430)] [[github.io](https://bytedancespeech.github.io/seedtts_tech_report/)]
 - **NaturalSpeech 3: Zero-Shot Speech Synthesis with Factorized Codec and Diffusion Models** , 2024 , arXiv [[paper](https://arxiv.org/pdf/2403.03100)] [[github](https://speechresearch.github.io/naturalspeech3/)]
@@ -58,6 +59,7 @@ This repo will be updated continuously ...
 - **PromptTTS: Controllable Text-to-Speech with Text Descriptions** , 2022 , arXiv [[paper](https://arxiv.org/pdf/2211.12171)] [[github.io](https://speechresearch.github.io/prompttts/)]
 
 ### Self-supervised Pretrain Speech Model<a id="paper5"></a>
+- **FireRedTTS: A Foundation Text-To-Speech Framework for Industry-Level Generative Speech Applications** , 2024 , arXiv [[paper](https://arxiv.org/pdf/2409.03283)] [[github](https://github.com/FireRedTeam/FireRedTTS)] [[github.io](https://fireredteam.github.io/demos/firered_tts/)]
 - **BEATs: Audio Pre-Training with Acoustic Tokenizers** , 2022 , arXiv [[paper](https://arxiv.org/pdf/2212.09058)] [[github](https://github.com/microsoft/unilm/tree/master/beats)]
 - **data2vec: A General Framework for Self-supervised Learning in Speech, Vision and Language** , 2022 , arXiv [[paper](https://arxiv.org/pdf/2202.03555)] [[github](https://github.com/facebookresearch/fairseq/tree/main/examples/data2vec)]
 - **W2v-BERT: Combining Contrastive Learning and Masked Language Modeling for Self-Supervised Speech Pre-Training** , 2021 , arXiv [[paper](https://arxiv.org/pdf/2108.06209)] 
@@ -129,11 +131,12 @@ Only common benchmarks and large-scale training datasets are listed here.
 - **Silero VAD**: A pre-trained enterprise-grade Voice Activity Detector. [[github](https://github.com/snakers4/silero-vad)]
 - **ESPnet**: End-to-end speech processing toolkit [[github](https://github.com/espnet/espnet)]
 - **Amphion**: An Open-Source Audio, Music, and Speech Generation Toolkit [[github](https://github.com/open-mmlab/Amphion)]
-- **huggingface speech-to-speech**: An effort for an open-sourced and modular GPT4-o. [[github](https://github.com/huggingface/speech-to-speech)]
+- **Huggingface speech-to-speech**: An effort for an open-sourced and modular GPT4-o. [[github](https://github.com/huggingface/speech-to-speech)]
 - **faster-whisper**: Faster-whisper is a reimplementation of OpenAI's Whisper model using CTranslate2, which is a fast inference engine for Transformer models. [[github](https://github.com/SYSTRAN/faster-whisper)]
 - **whisper_streaming**: Whisper realtime streaming for long speech-to-text transcription and translation. [[github](https://github.com/ufal/whisper_streaming)]
 - **SLAM-LLM**: A deep learning toolkit that allows researchers and developers to train custom multimodal large language model (MLLM), focusing on Speech, Language, Audio, Music processing. [[github](https://github.com/X-LANCE/SLAM-LLM)]
 - **swift**: Supports training(PreTraining/Fine-tuning/RLHF), inference, evaluation and deployment of 300+ LLMs and 50+ MLLMs (multimodal large models). [[github](https://github.com/modelscope/ms-swift)] [[DOCUMENTATION](https://swift.readthedocs.io/zh-cn/latest/index.html)]
+- **Huggingface Parler-TTS**: A lightweight text-to-speech (TTS) model that can generate high-quality, natural sounding speech in the style of a given speaker (gender, pitch, speaking style, etc). [[github](https://github.com/huggingface/parler-tts)] [[demo](https://huggingface.co/spaces/parler-tts/parler_tts)]
 
 ## Applications<a id="application"></a>
 - **GPT-4o** [[link](https://openai.com/index/hello-gpt-4o/)]
