@@ -90,9 +90,11 @@ This repo will be updated continuously ...
 
 ## Open-source Large Speech/Audio Models<a id="model"></a>
 - **Whisper** 
-  - Developer by OpenAI [[github](https://github.com/openai/whisper)] ![](https://img.shields.io/github/stars/openai/whisper.svg)
+  - Developed by OpenAI [[github](https://github.com/openai/whisper)] ![](https://img.shields.io/github/stars/openai/whisper.svg)
   - Introduction: Whisper is a general-purpose speech recognition model. It is trained on a large dataset of diverse audio and is also a multitasking model that can perform **multilingual speech recognition**, **speech translation**, and **language identification**. It supports speech recognition for 100 languages. Five model sizes are trained, including tiny(39 M), base(74 M), small(244 M), medium(769 M), large(1550 M) and the newest large v3 model is trained on 5M hours of labeled data.
-- **seamlessM4T** [[github](https://github.com/facebookresearch/seamless_communication)]
+- **Seamless**
+  - Developed by Meta [[github](https://github.com/facebookresearch/seamless_communication)] ![](https://img.shields.io/github/stars/facebookresearch/seamless_communication.svg)
+  - Introduction: Seamless is a family of AI models that enable more natural and authentic communication across languages. It contains three main models, SeamlessM4T, SeamlessExpressive and SeamlessStreaming. **SeamlessM4T** is a massive multilingual multimodal machine translation model supporting around 100 languages. SeamlessM4T serves as foundation for **SeamlessExpressive**, a model that preserves elements of prosody and voice style across languages and **SeamlessStreaming**, a model supporting simultaneous translation and streaming ASR for around 100 languages. SeamlessExpressive and SeamlessStreaming are combined into Seamless, a unified model featuring multilinguality, real-time and expressive translations.
 - **SenseVoice** [[github](https://github.com/FunAudioLLM/SenseVoice)]
 - **CosyVoice** [[github](https://github.com/FunAudioLLM/CosyVoice)]
 - **Qwen2-Audio** [[github](https://github.com/QwenLM/Qwen2-Audio)]
