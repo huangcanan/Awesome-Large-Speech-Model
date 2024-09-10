@@ -98,10 +98,17 @@ This repo will be updated continuously ...
 - **Seamless**
   - Developed by Meta [[github](https://github.com/facebookresearch/seamless_communication)] ![](https://img.shields.io/github/stars/facebookresearch/seamless_communication.svg)
   - Introduction: Seamless is a family of AI models that enable more natural and authentic communication across languages. It contains three main models, SeamlessM4T, SeamlessExpressive and SeamlessStreaming. **SeamlessM4T** is a massive multilingual multimodal machine translation model supporting around 100 languages. SeamlessM4T serves as foundation for **SeamlessExpressive**, a model that preserves elements of prosody and voice style across languages and **SeamlessStreaming**, a model supporting simultaneous translation and streaming ASR for around 100 languages. SeamlessExpressive and SeamlessStreaming are combined into Seamless, a unified model featuring multilinguality, real-time and expressive translations.
-- **SenseVoice** [[github](https://github.com/FunAudioLLM/SenseVoice)]
-- **CosyVoice** [[github](https://github.com/FunAudioLLM/CosyVoice)]
-- **Qwen2-Audio** [[github](https://github.com/QwenLM/Qwen2-Audio)]
-- **SALMONN** [[github](https://github.com/bytedance/SALMONN?tab=readme-ov-file)]
+- **SenseVoice**
+  - Developed by Alibaba [[github](https://github.com/FunAudioLLM/SenseVoice)] ![](https://img.shields.io/github/stars/FunAudioLLM/SenseVoice.svg)
+  - Introduction: SenseVoice is a speech foundation model with multiple speech understanding capabilities, including automatic speech recognition (ASR), spoken language identification (LID), speech emotion recognition (SER), and audio event detection (AED).
+- **CosyVoice**
+  - Developed by Alibaba [[github](https://github.com/FunAudioLLM/CosyVoice)] ![](https://img.shields.io/github/stars/FunAudioLLM/CosyVoice.svg)
+- **Qwen2-Audio**
+  - Developed by Alibaba [[github](https://github.com/QwenLM/Qwen2-Audio)] ![](https://img.shields.io/github/stars/QwenLM/Qwen2-Audio.svg)
+  - Introduction: The latest progress of Qwen-Audio, a large-scale audio-language model called Qwen2-Audio, which is capable of accepting various audio signal inputs and performing audio analysis or direct textual responses with regard to speech instructions. Two distinct audio interaction modes are introductioned: (1) voice chat: users can freely engage in voice interactions with Qwen2-Audio without text input; (2) audio analysis: users could provide audio and text instructions for analysis during the interaction; Two models are released of the Qwen2-Audio series: Qwen2-Audio-7B and Qwen2-Audio-7B-Instruct.
+- **SALMONN**
+  - Developed by Tsinghua University and ByteDance [[github](https://github.com/bytedance/SALMONN)] ![](https://img.shields.io/github/stars/bytedance/SALMONN.svg)
+  - Introduction: SALMONN is a large language model (LLM) enabling speech, audio events, and music inputs. Instead of speech-only input or audio-event-only input, SALMONN can perceive and understand all kinds of audio inputs and therefore obtain emerging capabilities such as multilingual speech recognition and translation and audio-speech co-reasoning.
 
 ## Data<a id="data"></a>
 Only common benchmarks and large-scale training datasets are listed here.
