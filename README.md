@@ -19,12 +19,15 @@ This repo will be updated continuously ...
 
 ## Papers<a id="paper"></a>
 ### Survey<a id="paper1"></a>
+- **A Comprehensive Survey on Deep Multimodal Learning with Missing Modality** , 2024 , arXiv , [[paper](https://arxiv.org/pdf/2409.07825)]
 - **A Comprehensive Review of Multimodal Large Language Models: Performance and Challenges Across Different Tasks** , 2024 , arXiv [[paper](https://arxiv.org/pdf/2408.01319)]
 - **MM-LLMs: Recent Advances in MultiModal Large Language Models** , 2024 , ACL [[paper](https://arxiv.org/pdf/2401.13601)] [[github.io](https://mm-llms.github.io/)]
 - **A Survey on Multimodal Large Language Models** , 2023 , arXiv [[paper](https://arxiv.org/pdf/2306.13549)] [[github](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)]
 - **Sparks of Large Audio Models: A Survey and Outlook** , 2023 , arXiv [[paper](https://arxiv.org/pdf/2308.12792)]
 
 ### Speech/Audio-Extended Large Language Model<a id="paper2"></a>
+- **LLaMA-Omni: Seamless Speech Interaction with Large Language Models** , 2024 , arXiv [[paper](https://arxiv.org/pdf/2409.06666)] [[github](https://github.com/ictnlp/LLaMA-Omni)]
+- **MooER: LLM-based Speech Recognition and Translation Models from Moore Threads** , 2024 , arXiv [[paper](https://arxiv.org/pdf/2408.05101)]  [[github](https://github.com/MooreThreads/MooER)]
 - **Mini-Omni: Language Models Can Hear, Talk While Thinking in Streaming** , 2024 , arXiv [[paper](https://arxiv.org/pdf/2408.16725)] [[github](https://github.com/gpt-omni/mini-omni)]
 - **Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context** , 2024 , arXiv [[paper](https://storage.googleapis.com/deepmind-media/gemini/gemini_v1_5_report.pdf)] 
 - **The Llama 3 Herd of Models** , 2024 , arXiv [[paper](https://arxiv.org/pdf/2407.21783)]
@@ -144,6 +147,7 @@ Only common benchmarks and large-scale training datasets are listed here.
 - **SLAM-LLM**: A deep learning toolkit that allows researchers and developers to train custom multimodal large language model (MLLM), focusing on Speech, Language, Audio, Music processing. [[github](https://github.com/X-LANCE/SLAM-LLM)]
 - **swift**: Supports training(PreTraining/Fine-tuning/RLHF), inference, evaluation and deployment of 300+ LLMs and 50+ MLLMs (multimodal large models). [[github](https://github.com/modelscope/ms-swift)] [[DOCUMENTATION](https://swift.readthedocs.io/zh-cn/latest/index.html)]
 - **Huggingface Parler-TTS**: A lightweight text-to-speech (TTS) model that can generate high-quality, natural sounding speech in the style of a given speaker (gender, pitch, speaking style, etc). [[github](https://github.com/huggingface/parler-tts)] [[demo](https://huggingface.co/spaces/parler-tts/parler_tts)]
+- **RTC**: Real-time communication (RTC) is a real-time communication technology that allows the exchange of audio, video, or data between computers or other devices. You can find some demos in the [github](https://github.com/webrtc)  open-sourced by google. And many companies are also provide RTC PaaS survices.
 
 ## Applications<a id="application"></a>
 - **GPT-4o** [[link](https://openai.com/index/hello-gpt-4o/)]
