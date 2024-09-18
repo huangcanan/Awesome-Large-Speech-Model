@@ -85,6 +85,8 @@ This repo will be updated continuously ...
 - **Neural Discrete Representation Learning** , 2017 , NeurIPS, [[paper](https://arxiv.org/pdf/1711.00937)] [[code](https://github.com/google-deepmind/sonnet/blob/v2/sonnet/src/nets/vqvae.py)] , Remark: VQ-VAE
 
 ### Audio/Music/Others<a id="paper7"></a>
+- **Seed-Music: A Unified Framework for High Quality and Controlled Music Generation** , 2024 , arXiv [[paper](https://arxiv.org/pdf/2409.09214)]
+- **QA-MDT: Quality-aware Masked Diffusion Transformer for Enhanced Music Generation** , 2024 , arXiv [[paper](https://arxiv.org/pdf/2405.15863)] [[github](https://github.com/ivcylc/qa-mdt)] [[github](https://qa-mdt.github.io/)]
 - **M2UGen: Multi-modal Music Understanding and Generation with the Power of Large Language Models** , 2024 , arXiv [[paper](https://arxiv.org/pdf/2311.11255)] [[github](https://github.com/shansongliu/M2UGen)]
 - **SingSong: Generating musical accompaniments from singing** , 2023 , arXiv [[paper](https://arxiv.org/pdf/2301.12662)] [[example](https://storage.googleapis.com/sing-song/index.html)]
 - **Simple and Controllable Music Generation** , 2023 , NeurIPS , [[paper](https://arxiv.org/pdf/2306.05284)] [[github](https://github.com/facebookresearch/audiocraft)]
@@ -155,3 +157,4 @@ Only common benchmarks and large-scale training datasets are listed here.
 - **heygen** [[link](https://www.heygen.com/)]
 - **Hume AI** [[link](https://www.hume.ai/)]
 - **Suno** [[link](https://suno.com/)]
+- **Google Illuminate** [[link](https://illuminate.google.com/home?pli=1)]
