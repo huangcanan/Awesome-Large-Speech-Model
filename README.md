@@ -26,6 +26,7 @@ This repo will be updated continuously ...
 - **Sparks of Large Audio Models: A Survey and Outlook** , 2023 , arXiv [[paper](https://arxiv.org/pdf/2308.12792)]
 
 ### Speech/Audio-Extended Large Language Model<a id="paper2"></a>
+- **Moshi: a speech-text foundation model for real-time dialogue** , 2024 [[paper](https://kyutai.org/Moshi.pdf)] [[github](https://github.com/kyutai-labs/moshi)]
 - **LLaMA-Omni: Seamless Speech Interaction with Large Language Models** , 2024 , arXiv [[paper](https://arxiv.org/pdf/2409.06666)] [[github](https://github.com/ictnlp/LLaMA-Omni)]
 - **MooER: LLM-based Speech Recognition and Translation Models from Moore Threads** , 2024 , arXiv [[paper](https://arxiv.org/pdf/2408.05101)]  [[github](https://github.com/MooreThreads/MooER)]
 - **Mini-Omni: Language Models Can Hear, Talk While Thinking in Streaming** , 2024 , arXiv [[paper](https://arxiv.org/pdf/2408.16725)] [[github](https://github.com/gpt-omni/mini-omni)]
