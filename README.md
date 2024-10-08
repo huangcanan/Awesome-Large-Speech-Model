@@ -117,6 +117,12 @@ This repo will be updated continuously ...
 - **SALMONN**
   - Developed by Tsinghua University and ByteDance [[github](https://github.com/bytedance/SALMONN)] ![](https://img.shields.io/github/stars/bytedance/SALMONN.svg)
   - Introduction: SALMONN is a large language model (LLM) enabling speech, audio events, and music inputs. Instead of speech-only input or audio-event-only input, SALMONN can perceive and understand all kinds of audio inputs and therefore obtain emerging capabilities such as multilingual speech recognition and translation and audio-speech co-reasoning.
+- **Reverb**
+  - Developed by Rev [[github](https://github.com/revdotcom/reverb)] ![](https://img.shields.io/github/stars/revdotcom/reverb.svg)
+  - Introduction: Open source inference and evaluation code for Rev's state-of-the-art speech recognition and diarization models. The speech recognition (ASR) code uses the WeNet framework and the speech diarization code uses the Pyannote framework. Reverb ASR was trained on **200,000 hours** of English speech, all expertly **transcribed by humans**. The speech recognition models released outperform all existing open source speech recognition models across a variety of long-form speech recognition domains.
+- NVIDIA NeMo ASR
+  - Develop by NVIDIA [[github](https://github.com/NVIDIA/NeMo)] ![](https://img.shields.io/github/stars/NVIDIA/NeMo.svg)
+  - Introduction: NVIDIA NeMo team released a number of inference optimizations for CTC, RNN-T, and TDT models that resulted in up to 10x inference speed-up. These models now exceed an inverse real-time factor (RTFx) of 2,000, with some reaching RTFx of even 6,000.
 
 ## Data<a id="data"></a>
 Only common benchmarks and large-scale training datasets are listed here.
