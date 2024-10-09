@@ -19,7 +19,8 @@ This repo will be updated continuously ...
 
 ## Papers<a id="paper"></a>
 ### Survey<a id="paper1"></a>
-- **A Comprehensive Survey on Deep Multimodal Learning with Missing Modality** , 2024 , arXiv , [[paper](https://arxiv.org/pdf/2409.07825)]
+- **Recent Advances in Speech Language Models: A Survey** , 2024 , arXiv [[paper](https://arxiv.org/pdf/2410.03751)]
+- **A Comprehensive Survey on Deep Multimodal Learning with Missing Modality** , 2024 , arXiv [[paper](https://arxiv.org/pdf/2409.07825)]
 - **A Comprehensive Review of Multimodal Large Language Models: Performance and Challenges Across Different Tasks** , 2024 , arXiv [[paper](https://arxiv.org/pdf/2408.01319)]
 - **MM-LLMs: Recent Advances in MultiModal Large Language Models** , 2024 , ACL [[paper](https://arxiv.org/pdf/2401.13601)] [[github.io](https://mm-llms.github.io/)]
 - **A Survey on Multimodal Large Language Models** , 2023 , arXiv [[paper](https://arxiv.org/pdf/2306.13549)] [[github](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)]
