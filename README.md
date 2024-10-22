@@ -66,6 +66,7 @@ This repo will be updated continuously ...
 - **PromptTTS: Controllable Text-to-Speech with Text Descriptions** , 2022 , arXiv [[paper](https://arxiv.org/pdf/2211.12171)] [[github.io](https://speechresearch.github.io/prompttts/)]
 
 ### Self-supervised Pretrain Speech Model<a id="paper5"></a>
+- **F5-TTS: A Fairytaler that Fakes Fluent and Faithful Speech with Flow Matching** , 2024 , arXiv [[paper](https://arxiv.org/pdf/2410.06885)] [[github](https://github.com/SWivid/F5-TTS)]
 - **FireRedTTS: A Foundation Text-To-Speech Framework for Industry-Level Generative Speech Applications** , 2024 , arXiv [[paper](https://arxiv.org/pdf/2409.03283)] [[github](https://github.com/FireRedTeam/FireRedTTS)] [[github.io](https://fireredteam.github.io/demos/firered_tts/)]
 - **BEATs: Audio Pre-Training with Acoustic Tokenizers** , 2022 , arXiv [[paper](https://arxiv.org/pdf/2212.09058)] [[github](https://github.com/microsoft/unilm/tree/master/beats)]
 - **data2vec: A General Framework for Self-supervised Learning in Speech, Vision and Language** , 2022 , arXiv [[paper](https://arxiv.org/pdf/2202.03555)] [[github](https://github.com/facebookresearch/fairseq/tree/main/examples/data2vec)]
@@ -124,6 +125,9 @@ This repo will be updated continuously ...
 - **NVIDIA NeMo ASR**
   - Developed by NVIDIA [[github](https://github.com/NVIDIA/NeMo)] ![](https://img.shields.io/github/stars/NVIDIA/NeMo.svg)
   - Introduction: NVIDIA NeMo team released a number of inference optimizations for CTC, RNN-T, and TDT models that resulted in up to 10x inference speed-up. These models now exceed an inverse real-time factor (RTFx) of 2,000, with some reaching RTFx of even 6,000.
+- **Westlake-Omni**
+  - Developed by xinchen-ai [[github](https://github.com/xinchen-ai/Westlake-Omni)] ![](https://img.shields.io/github/stars/xinchen-ai/Westlake-Omni.svg)
+  - Introduction: Westlake-Omni is an open-source Chinese emotional speech interaction large language model that utilizes discrete representations to achieve unified processing of speech and text modalities. The model supports low-latency generation and high-quality Chinese emotional speech interaction.
 
 ## Data<a id="data"></a>
 Only common benchmarks and large-scale training datasets are listed here.
@@ -147,6 +151,7 @@ Only common benchmarks and large-scale training datasets are listed here.
 | LibriTTS [[download](https://www.openslr.org/60/)] | English | TTS | 585 |
 | WenetSpeech4TTS [[download](https://huggingface.co/datasets/Wenetspeech4TTS/WenetSpeech4TTS)] | Mandarin | TTS | 10k |
 | Emilia [[download](https://huggingface.co/datasets/amphion/Emilia-Dataset)] | Multilingual | TTS | 101k |
+| fleurs [[download]()] | Multilingual | ASR/ST/MT | 10 |
 | AudioCaps [[download](https://huggingface.co/datasets/d0rj/audiocaps)] | - | AC | - |
 
 ## Tools<a id="tool"></a>
@@ -161,6 +166,7 @@ Only common benchmarks and large-scale training datasets are listed here.
 - **Huggingface Parler-TTS**: A lightweight text-to-speech (TTS) model that can generate high-quality, natural sounding speech in the style of a given speaker (gender, pitch, speaking style, etc). [[github](https://github.com/huggingface/parler-tts)] [[demo](https://huggingface.co/spaces/parler-tts/parler_tts)]
 - **RTC**: Real-time communication (RTC) is a real-time communication technology that allows the exchange of audio, video, or data between computers or other devices. You can find some demos in the [github](https://github.com/webrtc)  open-sourced by google. And many companies are also provide RTC PaaS survices.
 - **edge-tts**: edge-tts is a Python module that allows you to use Microsoft Edge's online text-to-speech service from within your Python code or using the provided edge-tts or edge-playback command. [[github](https://github.com/rany2/edge-tts)]
+- **fish-speech**
 
 ## Applications<a id="application"></a>
 - **GPT-4o** [[link](https://openai.com/index/hello-gpt-4o/)]
