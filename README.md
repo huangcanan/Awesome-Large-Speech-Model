@@ -166,7 +166,7 @@ Only common benchmarks and large-scale training datasets are listed here.
 - **Huggingface Parler-TTS**: A lightweight text-to-speech (TTS) model that can generate high-quality, natural sounding speech in the style of a given speaker (gender, pitch, speaking style, etc). [[github](https://github.com/huggingface/parler-tts)] [[demo](https://huggingface.co/spaces/parler-tts/parler_tts)]
 - **RTC**: Real-time communication (RTC) is a real-time communication technology that allows the exchange of audio, video, or data between computers or other devices. You can find some demos in the [github](https://github.com/webrtc)  open-sourced by google. And many companies are also provide RTC PaaS survices.
 - **edge-tts**: edge-tts is a Python module that allows you to use Microsoft Edge's online text-to-speech service from within your Python code or using the provided edge-tts or edge-playback command. [[github](https://github.com/rany2/edge-tts)]
-- **fish-speech**
+- **fish-speech**: Input a 10 to 30-second vocal sample to generate high-quality TTS output. [[github](https://github.com/fishaudio/fish-speech)]
 
 ## Applications<a id="application"></a>
 - **GPT-4o** [[link](https://openai.com/index/hello-gpt-4o/)]
