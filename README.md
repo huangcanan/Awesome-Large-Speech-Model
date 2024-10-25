@@ -9,9 +9,10 @@ This repo will be updated continuously ...
   - [Speech/Audio-Extended LLM](#paper2)
   - [Speech Recognition & Translation](#paper3)
   - [Speech Synthesis](#paper4)
-  - [Self-supervised Pretrain Speech Model](#paper5)
+  - [Self-supervised Pre-train Speech Model](#paper5)
   - [Speech Tokenization/Discretization](#paper6)
-  - [Audio/Music/Others](#paper7)
+  - [Speech/Audio/Music Data](#paper7)
+  - [Music Model & Others](#paper8)
 - [Open-source Large Speech/Audio Models](#model)
 - [Data](#data)
 - [Tools](#tool)
@@ -66,7 +67,7 @@ This repo will be updated continuously ...
 - **Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers** , 2023 , arXiv [[paper](https://arxiv.org/pdf/2301.02111)] [[github](https://github.com/lifeiteng/vall-e)] , Remark: VALL-E
 - **PromptTTS: Controllable Text-to-Speech with Text Descriptions** , 2022 , arXiv [[paper](https://arxiv.org/pdf/2211.12171)] [[github.io](https://speechresearch.github.io/prompttts/)]
 
-### Self-supervised Pretrain Speech Model<a id="paper5"></a>
+### Self-supervised Pre-train Speech Model<a id="paper5"></a>
 - **F5-TTS: A Fairytaler that Fakes Fluent and Faithful Speech with Flow Matching** , 2024 , arXiv [[paper](https://arxiv.org/pdf/2410.06885)] [[github](https://github.com/SWivid/F5-TTS)]
 - **FireRedTTS: A Foundation Text-To-Speech Framework for Industry-Level Generative Speech Applications** , 2024 , arXiv [[paper](https://arxiv.org/pdf/2409.03283)] [[github](https://github.com/FireRedTeam/FireRedTTS)] [[github.io](https://fireredteam.github.io/demos/firered_tts/)]
 - **BEATs: Audio Pre-Training with Acoustic Tokenizers** , 2022 , arXiv [[paper](https://arxiv.org/pdf/2212.09058)] [[github](https://github.com/microsoft/unilm/tree/master/beats)]
@@ -90,7 +91,14 @@ This repo will be updated continuously ...
 - **vq-wav2vec: Self-Supervised Learning of Discrete Speech Representations** , 2019 , arXiv [[paper](https://arxiv.org/pdf/1910.05453)]
 - **Neural Discrete Representation Learning** , 2017 , NeurIPS, [[paper](https://arxiv.org/pdf/1711.00937)] [[code](https://github.com/google-deepmind/sonnet/blob/v2/sonnet/src/nets/vqvae.py)] , Remark: VQ-VAE
 
-### Audio/Music/Others<a id="paper7"></a>
+### Speech/Audio/Music Data<a id="paper7"></a>
+- **Emilia: An Extensive, Multilingual, and Diverse Speech Dataset for Large-Scale Speech Generation** , 2024 , SLT [[paper](https://arxiv.org/pdf/2407.05361)] [[huggingface](https://huggingface.co/datasets/espnet/yodas)]
+- **WenetSpeech4TTS: A 12,800-hour Mandarin TTS Corpus for Large Speech Generation Model Benchmark** , 2024 , Interspeech [[paper](https://arxiv.org/pdf/2406.05763)]
+- **MSR-86K: An Evolving, Multilingual Corpus with 86,300 Hours of Transcribed Audio for Speech Recognition Research** , 2024 , Interspeech [[paper](https://www.arxiv.org/pdf/2406.18301)] [[huggingface](https://huggingface.co/datasets/Alex-Song/MSR-86K)] 
+- **YODAS: Youtube-Oriented Dataset for Audio and Speech** , 2023 , ASRU [[paper](https://arxiv.org/pdf/2406.00899)] [[github.io](https://emilia-dataset.github.io/Emilia-Demo-Page/)]
+- **AudioCaps: Generating Captions for Audios in The Wild** , 2019 , ACL [[paper](https://aclanthology.org/N19-1011.pdf)] [[github.io](https://audiocaps.github.io/)]
+
+### Music Model & Others<a id="paper8"></a>
 - **Seed-Music: A Unified Framework for High Quality and Controlled Music Generation** , 2024 , arXiv [[paper](https://arxiv.org/pdf/2409.09214)]
 - **QA-MDT: Quality-aware Masked Diffusion Transformer for Enhanced Music Generation** , 2024 , arXiv [[paper](https://arxiv.org/pdf/2405.15863)] [[github](https://github.com/ivcylc/qa-mdt)] [[github](https://qa-mdt.github.io/)]
 - **M2UGen: Multi-modal Music Understanding and Generation with the Power of Large Language Models** , 2024 , arXiv [[paper](https://arxiv.org/pdf/2311.11255)] [[github](https://github.com/shansongliu/M2UGen)]
@@ -130,10 +138,10 @@ This repo will be updated continuously ...
   - Developed by xinchen-ai [[github](https://github.com/xinchen-ai/Westlake-Omni)] ![](https://img.shields.io/github/stars/xinchen-ai/Westlake-Omni.svg)
   - Introduction: Westlake-Omni is an open-source Chinese emotional speech interaction large language model that utilizes discrete representations to achieve unified processing of speech and text modalities. The model supports low-latency generation and high-quality Chinese emotional speech interaction.
 - **GLM-4-Voice**
-  - Developed by Zhipu AI [[github](https://github.com/THUDM/GLM-4-Voice)]
+  - Developed by Zhipu AI [[github](https://github.com/THUDM/GLM-4-Voice)] ![](https://img.shields.io/github/stars/THUDM/GLM-4-Voice.svg)
   - Introduction: GLM-4-Voice is an end-to-end voice model launched by Zhipu AI. GLM-4-Voice can directly understand and generate Chinese and English speech, engage in real-time voice conversations, and change attributes such as emotion, intonation, speech rate, and dialect based on user instructions.
 
-## Data<a id="data"></a>
+## Datasets<a id="data"></a>
 Only common benchmarks and large-scale training datasets are listed here.
 - Speech Recognition & Translation
 - Speech Synthesis
