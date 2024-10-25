@@ -56,6 +56,7 @@ This repo will be updated continuously ...
 - **Robust Speech Recognition via Large-Scale Weak Supervision** , 2022 , arXiv [[paper](https://arxiv.org/pdf/2212.04356)] [[github](https://github.com/openai/whisper)] , Remark: Whisper
 
 ### Speech Synthesis<a id="paper4"></a>
+- **MaskGCT: Zero-Shot Text-to-Speech with Masked Generative Codec Transformer** , 2024 , arXiv [[paper](https://arxiv.org/pdf/2409.00750)] [[github](https://github.com/open-mmlab/Amphion/tree/main/models/tts/maskgct)] [[github.io](https://maskgct.github.io/)]
 - **Natural language guidance of high-fidelity text-to-speech with synthetic annotations** , 2024 , arXiv [[paper](https://arxiv.org/pdf/2402.01912)]  [[demo](https://www.text-description-to-speech.com/)]
 - **CosyVoice: A Scalable Multilingual Zero-shot Text-to-speech Synthesizer based on Supervised Semantic Tokens** , 2024 , arXiv [[paper](https://arxiv.org/pdf/2407.05407)] [[github](https://github.com/FunAudioLLM/CosyVoice)] [[github.io](https://fun-audio-llm.github.io/)]
 - **Seed-TTS: A Family of High-Quality Versatile Speech Generation Models** , 2024 , arXiv [[paper](https://arxiv.org/pdf/2406.02430)] [[github.io](https://bytedancespeech.github.io/seedtts_tech_report/)]
@@ -128,6 +129,9 @@ This repo will be updated continuously ...
 - **Westlake-Omni**
   - Developed by xinchen-ai [[github](https://github.com/xinchen-ai/Westlake-Omni)] ![](https://img.shields.io/github/stars/xinchen-ai/Westlake-Omni.svg)
   - Introduction: Westlake-Omni is an open-source Chinese emotional speech interaction large language model that utilizes discrete representations to achieve unified processing of speech and text modalities. The model supports low-latency generation and high-quality Chinese emotional speech interaction.
+- **GLM-4-Voice**
+  - Developed by Zhipu AI [[github](https://github.com/THUDM/GLM-4-Voice)]
+  - Introduction: GLM-4-Voice is an end-to-end voice model launched by Zhipu AI. GLM-4-Voice can directly understand and generate Chinese and English speech, engage in real-time voice conversations, and change attributes such as emotion, intonation, speech rate, and dialect based on user instructions.
 
 ## Data<a id="data"></a>
 Only common benchmarks and large-scale training datasets are listed here.
