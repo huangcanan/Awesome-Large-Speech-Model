@@ -14,7 +14,7 @@ This repo will be updated continuously ...
   - [Speech/Audio/Music Data](#paper7)
   - [Music Model & Others](#paper8)
 - [Open-source Large Speech/Audio Models](#model)
-- [Data](#data)
+- [Datasets](#datasets)
 - [Tools](#tool)
 - [Applications](#application)
 
@@ -57,6 +57,8 @@ This repo will be updated continuously ...
 - **Robust Speech Recognition via Large-Scale Weak Supervision** , 2022 , arXiv [[paper](https://arxiv.org/pdf/2212.04356)] [[github](https://github.com/openai/whisper)] , Remark: Whisper
 
 ### Speech Synthesis<a id="paper4"></a>
+- **F5-TTS: A Fairytaler that Fakes Fluent and Faithful Speech with Flow Matching** , 2024 , arXiv [[paper](https://arxiv.org/pdf/2410.06885)] [[github](https://github.com/SWivid/F5-TTS)]
+- **FireRedTTS: A Foundation Text-To-Speech Framework for Industry-Level Generative Speech Applications** , 2024 , arXiv [[paper](https://arxiv.org/pdf/2409.03283)] [[github](https://github.com/FireRedTeam/FireRedTTS)] [[github.io](https://fireredteam.github.io/demos/firered_tts/)]
 - **MaskGCT: Zero-Shot Text-to-Speech with Masked Generative Codec Transformer** , 2024 , arXiv [[paper](https://arxiv.org/pdf/2409.00750)] [[github](https://github.com/open-mmlab/Amphion/tree/main/models/tts/maskgct)] [[github.io](https://maskgct.github.io/)]
 - **Natural language guidance of high-fidelity text-to-speech with synthetic annotations** , 2024 , arXiv [[paper](https://arxiv.org/pdf/2402.01912)]  [[demo](https://www.text-description-to-speech.com/)]
 - **CosyVoice: A Scalable Multilingual Zero-shot Text-to-speech Synthesizer based on Supervised Semantic Tokens** , 2024 , arXiv [[paper](https://arxiv.org/pdf/2407.05407)] [[github](https://github.com/FunAudioLLM/CosyVoice)] [[github.io](https://fun-audio-llm.github.io/)]
@@ -68,8 +70,6 @@ This repo will be updated continuously ...
 - **PromptTTS: Controllable Text-to-Speech with Text Descriptions** , 2022 , arXiv [[paper](https://arxiv.org/pdf/2211.12171)] [[github.io](https://speechresearch.github.io/prompttts/)]
 
 ### Self-supervised Pre-train Speech Model<a id="paper5"></a>
-- **F5-TTS: A Fairytaler that Fakes Fluent and Faithful Speech with Flow Matching** , 2024 , arXiv [[paper](https://arxiv.org/pdf/2410.06885)] [[github](https://github.com/SWivid/F5-TTS)]
-- **FireRedTTS: A Foundation Text-To-Speech Framework for Industry-Level Generative Speech Applications** , 2024 , arXiv [[paper](https://arxiv.org/pdf/2409.03283)] [[github](https://github.com/FireRedTeam/FireRedTTS)] [[github.io](https://fireredteam.github.io/demos/firered_tts/)]
 - **BEATs: Audio Pre-Training with Acoustic Tokenizers** , 2022 , arXiv [[paper](https://arxiv.org/pdf/2212.09058)] [[github](https://github.com/microsoft/unilm/tree/master/beats)]
 - **data2vec: A General Framework for Self-supervised Learning in Speech, Vision and Language** , 2022 , arXiv [[paper](https://arxiv.org/pdf/2202.03555)] [[github](https://github.com/facebookresearch/fairseq/tree/main/examples/data2vec)]
 - **W2v-BERT: Combining Contrastive Learning and Masked Language Modeling for Self-Supervised Speech Pre-Training** , 2021 , arXiv [[paper](https://arxiv.org/pdf/2108.06209)] 
@@ -141,7 +141,7 @@ This repo will be updated continuously ...
   - Developed by Zhipu AI [[github](https://github.com/THUDM/GLM-4-Voice)] ![](https://img.shields.io/github/stars/THUDM/GLM-4-Voice.svg)
   - Introduction: GLM-4-Voice is an end-to-end voice model launched by Zhipu AI. GLM-4-Voice can directly understand and generate Chinese and English speech, engage in real-time voice conversations, and change attributes such as emotion, intonation, speech rate, and dialect based on user instructions.
 
-## Datasets<a id="data"></a>
+## Datasets<a id="datasets"></a>
 Only common benchmarks and large-scale training datasets are listed here.
 - Speech Recognition & Translation
 - Speech Synthesis
