@@ -11,8 +11,10 @@ This repo will be updated continuously ...
   - [Speech Synthesis](#paper4)
   - [Self-supervised Pre-train Speech Model](#paper5)
   - [Speech Tokenization/Discretization](#paper6)
-  - [Speech/Audio/Music Data](#paper7)
-  - [Music Model & Others](#paper8)
+  - [Music Model](#paper7)
+  - [Speech/Audio/Music Data](#paper8)
+  - [Benchmark](#paper9)
+  - [Others](#paper10)
 - [Open-source Large Speech/Audio Models](#model)
 - [Datasets](#datasets)
 - [Tools](#tool)
@@ -91,23 +93,30 @@ This repo will be updated continuously ...
 - **vq-wav2vec: Self-Supervised Learning of Discrete Speech Representations** , 2019 , arXiv [[paper](https://arxiv.org/pdf/1910.05453)]
 - **Neural Discrete Representation Learning** , 2017 , NeurIPS, [[paper](https://arxiv.org/pdf/1711.00937)] [[code](https://github.com/google-deepmind/sonnet/blob/v2/sonnet/src/nets/vqvae.py)] , Remark: VQ-VAE
 
-### Speech/Audio/Music Data<a id="paper7"></a>
+### Music Model<a id="paper7"></a>
+- **Seed-Music: A Unified Framework for High Quality and Controlled Music Generation** , 2024 , arXiv [[paper](https://arxiv.org/pdf/2409.09214)]
+- **QA-MDT: Quality-aware Masked Diffusion Transformer for Enhanced Music Generation** , 2024 , arXiv [[paper](https://arxiv.org/pdf/2405.15863)] [[github](https://github.com/ivcylc/qa-mdt)] [[github](https://qa-mdt.github.io/)]
+- **M2UGen: Multi-modal Music Understanding and Generation with the Power of Large Language Models** , 2024 , arXiv [[paper](https://arxiv.org/pdf/2311.11255)] [[github](https://github.com/shansongliu/M2UGen)]
+- **SingSong: Generating musical accompaniments from singing** , 2023 , arXiv [[paper](https://arxiv.org/pdf/2301.12662)] [[example](https://storage.googleapis.com/sing-song/index.html)]
+- **Simple and Controllable Music Generation** , 2023 , NeurIPS , [[paper](https://arxiv.org/pdf/2306.05284)] [[github](https://github.com/facebookresearch/audiocraft)]
+- **MusicLM: Generating Music From Text** , 2023 , arXiv [[paper](https://arxiv.org/pdf/2301.11325)] [[github.io](https://google-research.github.io/seanet/musiclm/examples/)]
+- **MuLan: A Joint Embedding of Music Audio and Natural Language** , 2022 , ISMIR [[paper](https://arxiv.org/pdf/2208.12415)] [[github](https://github.com/lucidrains/musiclm-pytorch)]
+
+### Speech/Audio/Music Data<a id="paper8"></a>
 - **Emilia: An Extensive, Multilingual, and Diverse Speech Dataset for Large-Scale Speech Generation** , 2024 , SLT [[paper](https://arxiv.org/pdf/2407.05361)] [[huggingface](https://huggingface.co/datasets/espnet/yodas)]
 - **WenetSpeech4TTS: A 12,800-hour Mandarin TTS Corpus for Large Speech Generation Model Benchmark** , 2024 , Interspeech [[paper](https://arxiv.org/pdf/2406.05763)]
 - **MSR-86K: An Evolving, Multilingual Corpus with 86,300 Hours of Transcribed Audio for Speech Recognition Research** , 2024 , Interspeech [[paper](https://www.arxiv.org/pdf/2406.18301)] [[huggingface](https://huggingface.co/datasets/Alex-Song/MSR-86K)] 
 - **YODAS: Youtube-Oriented Dataset for Audio and Speech** , 2023 , ASRU [[paper](https://arxiv.org/pdf/2406.00899)] [[github.io](https://emilia-dataset.github.io/Emilia-Demo-Page/)]
 - **AudioCaps: Generating Captions for Audios in The Wild** , 2019 , ACL [[paper](https://aclanthology.org/N19-1011.pdf)] [[github.io](https://audiocaps.github.io/)]
 
-### Music Model & Others<a id="paper8"></a>
-- **Seed-Music: A Unified Framework for High Quality and Controlled Music Generation** , 2024 , arXiv [[paper](https://arxiv.org/pdf/2409.09214)]
-- **QA-MDT: Quality-aware Masked Diffusion Transformer for Enhanced Music Generation** , 2024 , arXiv [[paper](https://arxiv.org/pdf/2405.15863)] [[github](https://github.com/ivcylc/qa-mdt)] [[github](https://qa-mdt.github.io/)]
-- **M2UGen: Multi-modal Music Understanding and Generation with the Power of Large Language Models** , 2024 , arXiv [[paper](https://arxiv.org/pdf/2311.11255)] [[github](https://github.com/shansongliu/M2UGen)]
-- **SingSong: Generating musical accompaniments from singing** , 2023 , arXiv [[paper](https://arxiv.org/pdf/2301.12662)] [[example](https://storage.googleapis.com/sing-song/index.html)]
-- **Simple and Controllable Music Generation** , 2023 , NeurIPS , [[paper](https://arxiv.org/pdf/2306.05284)] [[github](https://github.com/facebookresearch/audiocraft)]
-- **AUDIT: Audio Editing by Following Instructions with Latent Diffusion Models** , 2023 , NeurIPS , [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/e1b619a9e241606a23eb21767f16cf81-Paper-Conference.pdf)] [[github.io](https://audioldm.github.io/)]
+### Benchmark<a id="paper9"></a>
+- **MMAU: A Massive Multi-Task Audio Understanding and Reasoning Benchmark** , 2024 , arXiv [[paper](https://arxiv.org/pdf/2410.19168)] [[github](https://github.com/Sakshi113/MMAU)] [[github.io](https://sakshi113.github.io/mmau_homepage/)]
+- **AIR-Bench: Benchmarking Large Audio-Language Models via Generative Comprehension** , 2024 , ACL [[paper](https://aclanthology.org/2024.acl-long.109.pdf)] [[github](https://github.com/OFA-Sys/AIR-Bench)]
+- **SD-Eval: A Benchmark Dataset for Spoken Dialogue Understanding Beyond Words** , 2024 , arXiv [[paper](https://arxiv.org/pdf/2406.13340)] [[github](https://github.com/amphionspace/SD-Eval)]
+
+### Others<a id="paper10"></a>
 - **Text-to-Audio Generation using Instruction-Tuned LLM and Latent Diffusion Model** , 2023 , arXiv [[paper](https://arxiv.org/pdf/2304.13731)] [[github](https://github.com/declare-lab/tango)] [[github.io](https://tango-web.github.io/)]
-- **MusicLM: Generating Music From Text** , 2023 , arXiv [[paper](https://arxiv.org/pdf/2301.11325)] [[github.io](https://google-research.github.io/seanet/musiclm/examples/)]
-- **MuLan: A Joint Embedding of Music Audio and Natural Language** , 2022 , ISMIR [[paper](https://arxiv.org/pdf/2208.12415)] [[github](https://github.com/lucidrains/musiclm-pytorch)]
+- **AUDIT: Audio Editing by Following Instructions with Latent Diffusion Models** , 2023 , NeurIPS , [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/e1b619a9e241606a23eb21767f16cf81-Paper-Conference.pdf)] [[github.io](https://audioldm.github.io/)]
 - **AudioLM: a Language Modeling Approach to Audio Generation** , 2022 , arXiv [[paper](https://arxiv.org/pdf/2209.03143)] [[github.io](https://google-research.github.io/seanet/audiolm/examples/)]
 
 ## Open-source Large Speech/Audio Models<a id="model"></a>
