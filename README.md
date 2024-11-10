@@ -116,7 +116,7 @@ This repo will be updated continuously ...
 
 ### Others<a id="paper10"></a>
 - **Text-to-Audio Generation using Instruction-Tuned LLM and Latent Diffusion Model** , 2023 , arXiv [[paper](https://arxiv.org/pdf/2304.13731)] [[github](https://github.com/declare-lab/tango)] [[github.io](https://tango-web.github.io/)]
-- **AUDIT: Audio Editing by Following Instructions with Latent Diffusion Models** , 2023 , NeurIPS , [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/e1b619a9e241606a23eb21767f16cf81-Paper-Conference.pdf)] [[github.io](https://audioldm.github.io/)]
+- **AUDIT: Audio Editing by Following Instructions with Latent Diffusion Models** , 2023 , NeurIPS [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/e1b619a9e241606a23eb21767f16cf81-Paper-Conference.pdf)] [[github.io](https://audioldm.github.io/)]
 - **AudioLM: a Language Modeling Approach to Audio Generation** , 2022 , arXiv [[paper](https://arxiv.org/pdf/2209.03143)] [[github.io](https://google-research.github.io/seanet/audiolm/examples/)]
 
 ## Open-source Large Speech/Audio Models<a id="model"></a>
