@@ -25,12 +25,12 @@ This repo will be updated continuously ...
 - **Recent Advances in Speech Language Models: A Survey** , 2024 , arXiv [[paper](https://arxiv.org/pdf/2410.03751)]
 - **A Comprehensive Survey on Deep Multimodal Learning with Missing Modality** , 2024 , arXiv [[paper](https://arxiv.org/pdf/2409.07825)]
 - **A Comprehensive Review of Multimodal Large Language Models: Performance and Challenges Across Different Tasks** , 2024 , arXiv [[paper](https://arxiv.org/pdf/2408.01319)]
-- **MM-LLMs: Recent Advances in MultiModal Large Language Models** , 2024 , ACL [[paper](https://arxiv.org/pdf/2401.13601)] [[github.io](https://mm-llms.github.io/)]
+- **MM-LLMs: Recent Advances in MultiModal Large Language Models** , 2024 , ACL [[paper](https://arxiv.org/pdf/2401.13601)] [[demo](https://mm-llms.github.io/)]
 - **A Survey on Multimodal Large Language Models** , 2023 , arXiv [[paper](https://arxiv.org/pdf/2306.13549)] [[github](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)]
 - **Sparks of Large Audio Models: A Survey and Outlook** , 2023 , arXiv [[paper](https://arxiv.org/pdf/2308.12792)]
 
 ### Speech/Audio-Extended Large Language Model<a id="paper2"></a>
-- **EMOVA: Empowering Language Models to See, Hear and Speak with Vivid Emotions** , 2024 , arXiv [[paper](https://arxiv.org/pdf/2409.18042)] [[github.io](https://emova-ollm.github.io/)]
+- **EMOVA: Empowering Language Models to See, Hear and Speak with Vivid Emotions** , 2024 , arXiv [[paper](https://arxiv.org/pdf/2409.18042)] [[demo](https://emova-ollm.github.io/)]
 - **Moshi: a speech-text foundation model for real-time dialogue** , 2024 [[paper](https://kyutai.org/Moshi.pdf)] [[github](https://github.com/kyutai-labs/moshi)]
 - **LLaMA-Omni: Seamless Speech Interaction with Large Language Models** , 2024 , arXiv [[paper](https://arxiv.org/pdf/2409.06666)] [[github](https://github.com/ictnlp/LLaMA-Omni)]
 - **MooER: LLM-based Speech Recognition and Translation Models from Moore Threads** , 2024 , arXiv [[paper](https://arxiv.org/pdf/2408.05101)]  [[github](https://github.com/MooreThreads/MooER)]
@@ -38,21 +38,21 @@ This repo will be updated continuously ...
 - **Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context** , 2024 , arXiv [[paper](https://storage.googleapis.com/deepmind-media/gemini/gemini_v1_5_report.pdf)] 
 - **The Llama 3 Herd of Models** , 2024 , arXiv [[paper](https://arxiv.org/pdf/2407.21783)]
 - **Lumina-T2X: Transforming Text into Any Modality, Resolution, and Duration via Flow-based Large Diffusion Transformers** , 2024 , arXiv [[paper](https://arxiv.org/pdf/2405.05945)] [[github](https://github.com/Alpha-VLLM/Lumina-T2X)]
-- **VITA: Towards Open-Source Interactive Omni Multimodal LLM** , 2024 , arXiv [[paper](https://arxiv.org/pdf/2408.05211)] [[github.io](https://vita-home.github.io/)]
+- **VITA: Towards Open-Source Interactive Omni Multimodal LLM** , 2024 , arXiv [[paper](https://arxiv.org/pdf/2408.05211)] [[demo](https://vita-home.github.io/)]
 - **Qwen2-Audio Technical Report** , 2024 , arXiv [[paper](https://arxiv.org/pdf/2407.10759)] [[github](https://github.com/QwenLM/Qwen2-Audio)]
 - **NExT-GPT: Any-to-Any Multimodal LLM** , 2024 , ICML [[paper](https://arxiv.org/pdf/2309.05519)] [[github](https://github.com/NExT-GPT/NExT-GPT)]
 - **AnyGPT: Unified Multimodal LLM with Discrete Sequence Modeling** , 2024 , arXiv [[paper](https://arxiv.org/abs/2402.12226)] [[github](https://github.com/OpenMOSS/AnyGPT)]
 - **An Embarrassingly Simple Approach for LLM with Strong ASR Capacity** , 2024 , arXiv [[paper](https://arxiv.org/pdf/2402.08846)] [[github](https://github.com/X-LANCE/SLAM-LLM)]
 - **SALMONN: Towards Generic Hearing Abilities for Large Language Models** , 2024 , ICLR [[paper](https://openreview.net/pdf?id=14rn7HpKVk)] [[github](https://github.com/bytedance/SALMONN)]
 - **Macaw-LLM: Multi-Modal Language Modeling with Image, Audio, Video, and Text Integration** , 2023 , arXiv [[paper](https://arxiv.org/pdf/2306.09093)] [[github](https://github.com/lyuchenyang/Macaw-LLM)]
-- **LauraGPT: Listen, Attend, Understand, and Regenerate Audio with GPT** , 2023 , arXiv [[paper](https://arxiv.org/pdf/2310.04673)] [[github.io](https://lauragpt.github.io/)] 
+- **LauraGPT: Listen, Attend, Understand, and Regenerate Audio with GPT** , 2023 , arXiv [[paper](https://arxiv.org/pdf/2310.04673)] [[demo](https://lauragpt.github.io/)] 
 - **Qwen-Audio: Advancing Universal Audio Understanding via Unified Large-Scale Audio-Language Models** , 2023 , arXiv [[paper](https://arxiv.org/pdf/2311.07919)] [[github](https://github.com/QwenLM/Qwen-Audio)]
 - **SpeechGPT: Empowering Large Language Models with Intrinsic Cross-Modal Conversational Abilities** , 2023 , EMNLP [[paper](https://arxiv.org/pdf/2305.11000)] [[github](https://github.com/0nutation/SpeechGPT)]
 - **Pengi: An Audio Language Model for Audio Tasks** , 2023 , NeurIPS [[paper](https://arxiv.org/pdf/2305.11834)] [[github](https://github.com/microsoft/Pengi)]
-- **AudioPaLM: A Large Language Model That Can Speak and Listen** , 2023 , arXiv [[paper](https://arxiv.org/pdf/2306.12925)] [[github.io](https://google-research.github.io/seanet/audiopalm/examples/)]
+- **AudioPaLM: A Large Language Model That Can Speak and Listen** , 2023 , arXiv [[paper](https://arxiv.org/pdf/2306.12925)] [[demo](https://google-research.github.io/seanet/audiopalm/examples/)]
 
 ### Speech Recognition & Translation<a id="paper3"></a>
-- **Seed-ASR: Understanding Diverse Speech and Contexts with LLM-based Speech Recognition** , 2024 , arXiv [[paper](https://arxiv.org/pdf/2407.04675)] [[github.io](https://bytedancespeech.github.io/seedasr_tech_report/)]
+- **Seed-ASR: Understanding Diverse Speech and Contexts with LLM-based Speech Recognition** , 2024 , arXiv [[paper](https://arxiv.org/pdf/2407.04675)] [[demo](https://bytedancespeech.github.io/seedasr_tech_report/)]
 - **OWSM v3.1: Better and Faster Open Whisper-Style Speech Models based on E-Branchformer** , 2024 , Interspeech [[paper](https://arxiv.org/pdf/2401.16658)] [[github](https://github.com/espnet/espnet/tree/master/egs2/owsm_v3.1/s2t1)]
 - **Seamless: Multilingual Expressive and Streaming Speech Translation** , 2023 , arXiv [[paper](https://arxiv.org/pdf/2312.05187)] [[github](https://github.com/facebookresearch/seamless_communication)]
 - **SeamlessM4T: Massively Multilingual & Multimodal Machine Translation** , 2023 , arXiv [[paper](https://arxiv.org/pdf/2308.11596)] [[github](https://github.com/facebookresearch/seamless_communication)]
@@ -60,16 +60,16 @@ This repo will be updated continuously ...
 
 ### Speech Synthesis<a id="paper4"></a>
 - **F5-TTS: A Fairytaler that Fakes Fluent and Faithful Speech with Flow Matching** , 2024 , arXiv [[paper](https://arxiv.org/pdf/2410.06885)] [[github](https://github.com/SWivid/F5-TTS)]
-- **FireRedTTS: A Foundation Text-To-Speech Framework for Industry-Level Generative Speech Applications** , 2024 , arXiv [[paper](https://arxiv.org/pdf/2409.03283)] [[github](https://github.com/FireRedTeam/FireRedTTS)] [[github.io](https://fireredteam.github.io/demos/firered_tts/)]
-- **MaskGCT: Zero-Shot Text-to-Speech with Masked Generative Codec Transformer** , 2024 , arXiv [[paper](https://arxiv.org/pdf/2409.00750)] [[github](https://github.com/open-mmlab/Amphion/tree/main/models/tts/maskgct)] [[github.io](https://maskgct.github.io/)]
+- **FireRedTTS: A Foundation Text-To-Speech Framework for Industry-Level Generative Speech Applications** , 2024 , arXiv [[paper](https://arxiv.org/pdf/2409.03283)] [[github](https://github.com/FireRedTeam/FireRedTTS)] [[demo](https://fireredteam.github.io/demos/firered_tts/)]
+- **MaskGCT: Zero-Shot Text-to-Speech with Masked Generative Codec Transformer** , 2024 , arXiv [[paper](https://arxiv.org/pdf/2409.00750)] [[github](https://github.com/open-mmlab/Amphion/tree/main/models/tts/maskgct)] [[demo](https://maskgct.github.io/)]
 - **Natural language guidance of high-fidelity text-to-speech with synthetic annotations** , 2024 , arXiv [[paper](https://arxiv.org/pdf/2402.01912)]  [[demo](https://www.text-description-to-speech.com/)]
-- **CosyVoice: A Scalable Multilingual Zero-shot Text-to-speech Synthesizer based on Supervised Semantic Tokens** , 2024 , arXiv [[paper](https://arxiv.org/pdf/2407.05407)] [[github](https://github.com/FunAudioLLM/CosyVoice)] [[github.io](https://fun-audio-llm.github.io/)]
-- **Seed-TTS: A Family of High-Quality Versatile Speech Generation Models** , 2024 , arXiv [[paper](https://arxiv.org/pdf/2406.02430)] [[github.io](https://bytedancespeech.github.io/seedtts_tech_report/)]
+- **CosyVoice: A Scalable Multilingual Zero-shot Text-to-speech Synthesizer based on Supervised Semantic Tokens** , 2024 , arXiv [[paper](https://arxiv.org/pdf/2407.05407)] [[github](https://github.com/FunAudioLLM/CosyVoice)] [[demo](https://fun-audio-llm.github.io/)]
+- **Seed-TTS: A Family of High-Quality Versatile Speech Generation Models** , 2024 , arXiv [[paper](https://arxiv.org/pdf/2406.02430)] [[demo](https://bytedancespeech.github.io/seedtts_tech_report/)]
 - **NaturalSpeech 3: Zero-Shot Speech Synthesis with Factorized Codec and Diffusion Models** , 2024 , arXiv [[paper](https://arxiv.org/pdf/2403.03100)] [[github](https://speechresearch.github.io/naturalspeech3/)]
 - **Boosting Large Language Model for Speech Synthesis: An Empirical Study** , 2023 , arXiv [[paper](https://arxiv.org/pdf/2401.00246)]
-- **SoundStorm: Efficient Parallel Audio Generation** , 2023 , arXiv [[paper](https://arxiv.org/pdf/2305.09636)] [[github.io](https://google-research.github.io/seanet/soundstorm/examples/)]
+- **SoundStorm: Efficient Parallel Audio Generation** , 2023 , arXiv [[paper](https://arxiv.org/pdf/2305.09636)] [[demo](https://google-research.github.io/seanet/soundstorm/examples/)]
 - VALL-E: **Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers** , 2023 , arXiv [[paper](https://arxiv.org/pdf/2301.02111)] [[github](https://github.com/lifeiteng/vall-e)]
-- **PromptTTS: Controllable Text-to-Speech with Text Descriptions** , 2022 , arXiv [[paper](https://arxiv.org/pdf/2211.12171)] [[github.io](https://speechresearch.github.io/prompttts/)]
+- **PromptTTS: Controllable Text-to-Speech with Text Descriptions** , 2022 , arXiv [[paper](https://arxiv.org/pdf/2211.12171)] [[demo](https://speechresearch.github.io/prompttts/)]
 
 ### Self-supervised Pre-train Speech Model<a id="paper5"></a>
 - **BEATs: Audio Pre-Training with Acoustic Tokenizers** , 2022 , arXiv [[paper](https://arxiv.org/pdf/2212.09058)] [[github](https://github.com/microsoft/unilm/tree/master/beats)]
@@ -81,11 +81,11 @@ This repo will be updated continuously ...
 - **wav2vec: Unsupervised Pre-Training for Speech Recognition** , 2019 , arXiv [[paper](https://arxiv.org/pdf/1904.05862)] [[github](https://github.com/facebookresearch/fairseq/tree/main/examples/wav2vec)]
 
 ### Speech Tokenization/Discretization<a id="paper6"></a>
-- **WavTokenizer: an Efficient Acoustic Discrete Codec Tokenizer for Audio Language Modeling** , 2024 , arXiv [[paper](https://arxiv.org/pdf/2408.16532)] [[github](https://github.com/jishengpeng/WavTokenizer)] [[github.io](https://wavtokenizer.github.io/)]
+- **WavTokenizer: an Efficient Acoustic Discrete Codec Tokenizer for Audio Language Modeling** , 2024 , arXiv [[paper](https://arxiv.org/pdf/2408.16532)] [[github](https://github.com/jishengpeng/WavTokenizer)] [[demo](https://wavtokenizer.github.io/)]
 - **RepCodec: A Speech Representation Codec for Speech Tokenization** , 2024 , ACL [[paper](https://arxiv.org/pdf/2309.00169)] [[github](https://github.com/mct10/RepCodec)]
-- **FunCodec: A Fundamental, Reproducible and Integrable Open-source Toolkit for Neural Speech Codec** , 2024 , arXiv [[paper](https://arxiv.org/pdf/2309.07405)] [[github](https://github.com/modelscope/FunCodec)] [[github.io](https://funcodec.github.io/)]
-- **Single-Codec: Single-Codebook Speech Codec towards High-Performance Speech Generation** , 2024 , Interspeech [[paper](https://arxiv.org/pdf/2406.07422)] [[github.io](https://kkksuper.github.io/Single-Codec/)]
-- **ToneUnit: A Speech Discretization Approach for Tonal Language Speech Synthesis** , 2024 , arXiv [[paper](https://arxiv.org/pdf/2406.08989)] [[github.io](https://toneunit1225.github.io/)]
+- **FunCodec: A Fundamental, Reproducible and Integrable Open-source Toolkit for Neural Speech Codec** , 2024 , arXiv [[paper](https://arxiv.org/pdf/2309.07405)] [[github](https://github.com/modelscope/FunCodec)] [[demo](https://funcodec.github.io/)]
+- **Single-Codec: Single-Codebook Speech Codec towards High-Performance Speech Generation** , 2024 , Interspeech [[paper](https://arxiv.org/pdf/2406.07422)] [[demo](https://kkksuper.github.io/Single-Codec/)]
+- **ToneUnit: A Speech Discretization Approach for Tonal Language Speech Synthesis** , 2024 , arXiv [[paper](https://arxiv.org/pdf/2406.08989)] [[demo](https://toneunit1225.github.io/)]
 - **SpeechTokenizer: Unified Speech Tokenizer for Speech Large Language Models** , 2024 , ICLR [[paper](https://arxiv.org/pdf/2308.16692)] [[github](https://github.com/ZhangXInFD/SpeechTokenizer)]
 - **Finite Scalar Quantization: VQ-VAE Made Simple** , 2023 , arXiv [[paper](https://arxiv.org/pdf/2309.15505)] [[github](https://github.com/google-research/google-research/tree/master/fsq)]
 - **High-Fidelity Audio Compression with Improved RVQGAN** , 2023 , NeurIPS [[paper](https://arxiv.org/pdf/2306.06546)] [[github](https://github.com/descriptinc/descript-audio-codec)]
@@ -99,25 +99,25 @@ This repo will be updated continuously ...
 - **M2UGen: Multi-modal Music Understanding and Generation with the Power of Large Language Models** , 2024 , arXiv [[paper](https://arxiv.org/pdf/2311.11255)] [[github](https://github.com/shansongliu/M2UGen)]
 - **SingSong: Generating musical accompaniments from singing** , 2023 , arXiv [[paper](https://arxiv.org/pdf/2301.12662)] [[example](https://storage.googleapis.com/sing-song/index.html)]
 - **Simple and Controllable Music Generation** , 2023 , NeurIPS , [[paper](https://arxiv.org/pdf/2306.05284)] [[github](https://github.com/facebookresearch/audiocraft)]
-- **MusicLM: Generating Music From Text** , 2023 , arXiv [[paper](https://arxiv.org/pdf/2301.11325)] [[github.io](https://google-research.github.io/seanet/musiclm/examples/)]
+- **MusicLM: Generating Music From Text** , 2023 , arXiv [[paper](https://arxiv.org/pdf/2301.11325)] [[demo](https://google-research.github.io/seanet/musiclm/examples/)]
 - **MuLan: A Joint Embedding of Music Audio and Natural Language** , 2022 , ISMIR [[paper](https://arxiv.org/pdf/2208.12415)] [[github](https://github.com/lucidrains/musiclm-pytorch)]
 
 ### Speech/Audio/Music Data<a id="paper8"></a>
 - **Emilia: An Extensive, Multilingual, and Diverse Speech Dataset for Large-Scale Speech Generation** , 2024 , SLT [[paper](https://arxiv.org/pdf/2407.05361)] [[huggingface](https://huggingface.co/datasets/espnet/yodas)]
 - **WenetSpeech4TTS: A 12,800-hour Mandarin TTS Corpus for Large Speech Generation Model Benchmark** , 2024 , Interspeech [[paper](https://arxiv.org/pdf/2406.05763)]
 - **MSR-86K: An Evolving, Multilingual Corpus with 86,300 Hours of Transcribed Audio for Speech Recognition Research** , 2024 , Interspeech [[paper](https://www.arxiv.org/pdf/2406.18301)] [[huggingface](https://huggingface.co/datasets/Alex-Song/MSR-86K)] 
-- **YODAS: Youtube-Oriented Dataset for Audio and Speech** , 2023 , ASRU [[paper](https://arxiv.org/pdf/2406.00899)] [[github.io](https://emilia-dataset.github.io/Emilia-Demo-Page/)]
-- **AudioCaps: Generating Captions for Audios in The Wild** , 2019 , ACL [[paper](https://aclanthology.org/N19-1011.pdf)] [[github.io](https://audiocaps.github.io/)]
+- **YODAS: Youtube-Oriented Dataset for Audio and Speech** , 2023 , ASRU [[paper](https://arxiv.org/pdf/2406.00899)] [[demo](https://emilia-dataset.github.io/Emilia-Demo-Page/)]
+- **AudioCaps: Generating Captions for Audios in The Wild** , 2019 , ACL [[paper](https://aclanthology.org/N19-1011.pdf)] [[demo](https://audiocaps.github.io/)]
 
 ### Benchmark<a id="paper9"></a>
-- **MMAU: A Massive Multi-Task Audio Understanding and Reasoning Benchmark** , 2024 , arXiv [[paper](https://arxiv.org/pdf/2410.19168)] [[github](https://github.com/Sakshi113/MMAU)] [[github.io](https://sakshi113.github.io/mmau_homepage/)]
+- **MMAU: A Massive Multi-Task Audio Understanding and Reasoning Benchmark** , 2024 , arXiv [[paper](https://arxiv.org/pdf/2410.19168)] [[github](https://github.com/Sakshi113/MMAU)] [[demo](https://sakshi113.github.io/mmau_homepage/)]
 - **AIR-Bench: Benchmarking Large Audio-Language Models via Generative Comprehension** , 2024 , ACL [[paper](https://aclanthology.org/2024.acl-long.109.pdf)] [[github](https://github.com/OFA-Sys/AIR-Bench)]
 - **SD-Eval: A Benchmark Dataset for Spoken Dialogue Understanding Beyond Words** , 2024 , arXiv [[paper](https://arxiv.org/pdf/2406.13340)] [[github](https://github.com/amphionspace/SD-Eval)]
 
 ### Others<a id="paper10"></a>
-- **Text-to-Audio Generation using Instruction-Tuned LLM and Latent Diffusion Model** , 2023 , arXiv [[paper](https://arxiv.org/pdf/2304.13731)] [[github](https://github.com/declare-lab/tango)] [[github.io](https://tango-web.github.io/)]
-- **AUDIT: Audio Editing by Following Instructions with Latent Diffusion Models** , 2023 , NeurIPS [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/e1b619a9e241606a23eb21767f16cf81-Paper-Conference.pdf)] [[github.io](https://audioldm.github.io/)]
-- **AudioLM: a Language Modeling Approach to Audio Generation** , 2022 , arXiv [[paper](https://arxiv.org/pdf/2209.03143)] [[github.io](https://google-research.github.io/seanet/audiolm/examples/)]
+- **Text-to-Audio Generation using Instruction-Tuned LLM and Latent Diffusion Model** , 2023 , arXiv [[paper](https://arxiv.org/pdf/2304.13731)] [[github](https://github.com/declare-lab/tango)] [[demo](https://tango-web.github.io/)]
+- **AUDIT: Audio Editing by Following Instructions with Latent Diffusion Models** , 2023 , NeurIPS [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/e1b619a9e241606a23eb21767f16cf81-Paper-Conference.pdf)] [[demo](https://audioldm.github.io/)]
+- **AudioLM: a Language Modeling Approach to Audio Generation** , 2022 , arXiv [[paper](https://arxiv.org/pdf/2209.03143)] [[demo](https://google-research.github.io/seanet/audiolm/examples/)]
 
 ## Open-source Large Speech/Audio Models<a id="model"></a>
 - **Whisper** 
