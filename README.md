@@ -9,12 +9,13 @@ This repo will be updated continuously ...
   - [Speech/Audio-Extended LLM](#paper2)
   - [Speech Recognition & Translation](#paper3)
   - [Speech Synthesis](#paper4)
-  - [Self-supervised Pre-train Speech Model](#paper5)
+  - [Self-supervised Pre-trained Speech Model](#paper5)
   - [Speech Tokenization/Discretization](#paper6)
   - [Music Model](#paper7)
   - [Speech/Audio/Music Data](#paper8)
   - [Benchmark](#paper9)
-  - [Others](#paper10)
+  - [Safety & Risk](#paper10)
+  - [Others](#paper11)
 - [Open-source Large Speech/Audio Models](#model)
 - [Datasets](#datasets)
 - [Tools](#tool)
@@ -30,6 +31,9 @@ This repo will be updated continuously ...
 - **Sparks of Large Audio Models: A Survey and Outlook** , 2023 , arXiv [[paper](https://arxiv.org/pdf/2308.12792)]
 
 ### Speech/Audio-Extended Large Language Model<a id="paper2"></a>
+- **Freeze-Omni: A Smart and Low Latency Speech-to-speech Dialogue Model with Frozen LLM** , 2024 , arXiv [[paper](https://arxiv.org/pdf/2411.00774)] [[github](https://github.com/VITA-MLLM/Freeze-Omni)] [[demo](https://freeze-omni.github.io/)]
+- **OmniFlatten: An End-to-end GPT Model for Seamless Voice ConversationOmniFlatten: An End-to-end GPT Model for Seamless Voice Conversation** , 2024 , arXiv [[paper](https://arxiv.org/pdf/2410.17799)] [[demo](https://omniflatten.github.io/)]
+- **Beyond the Turn-Based Game: Enabling Real-Time Conversations with Duplex Models** , 2024 , arXiv [[paper](https://arxiv.org/pdf/2406.15718)] [[github](https://github.com/thunlp/duplex-model)]
 - **EMOVA: Empowering Language Models to See, Hear and Speak with Vivid Emotions** , 2024 , arXiv [[paper](https://arxiv.org/pdf/2409.18042)] [[demo](https://emova-ollm.github.io/)]
 - **Moshi: a speech-text foundation model for real-time dialogue** , 2024 [[paper](https://kyutai.org/Moshi.pdf)] [[github](https://github.com/kyutai-labs/moshi)]
 - **LLaMA-Omni: Seamless Speech Interaction with Large Language Models** , 2024 , arXiv [[paper](https://arxiv.org/pdf/2409.06666)] [[github](https://github.com/ictnlp/LLaMA-Omni)]
@@ -71,7 +75,7 @@ This repo will be updated continuously ...
 - VALL-E: **Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers** , 2023 , arXiv [[paper](https://arxiv.org/pdf/2301.02111)] [[github](https://github.com/lifeiteng/vall-e)]
 - **PromptTTS: Controllable Text-to-Speech with Text Descriptions** , 2022 , arXiv [[paper](https://arxiv.org/pdf/2211.12171)] [[demo](https://speechresearch.github.io/prompttts/)]
 
-### Self-supervised Pre-train Speech Model<a id="paper5"></a>
+### Self-supervised Pre-trained Speech Model<a id="paper5"></a>
 - **BEATs: Audio Pre-Training with Acoustic Tokenizers** , 2022 , arXiv [[paper](https://arxiv.org/pdf/2212.09058)] [[github](https://github.com/microsoft/unilm/tree/master/beats)]
 - **data2vec: A General Framework for Self-supervised Learning in Speech, Vision and Language** , 2022 , arXiv [[paper](https://arxiv.org/pdf/2202.03555)] [[github](https://github.com/facebookresearch/fairseq/tree/main/examples/data2vec)]
 - **W2v-BERT: Combining Contrastive Learning and Masked Language Modeling for Self-Supervised Speech Pre-Training** , 2021 , arXiv [[paper](https://arxiv.org/pdf/2108.06209)] 
@@ -81,6 +85,8 @@ This repo will be updated continuously ...
 - **wav2vec: Unsupervised Pre-Training for Speech Recognition** , 2019 , arXiv [[paper](https://arxiv.org/pdf/1904.05862)] [[github](https://github.com/facebookresearch/fairseq/tree/main/examples/wav2vec)]
 
 ### Speech Tokenization/Discretization<a id="paper6"></a>
+- **Universal Speech Token Learning Via Low-Bitrate Neural Codec and Pretrained Representations** , 2024 , IEEE Journal of Selected Topics in Signal Processing [[paper](https://ieeexplore.ieee.org/abstract/document/10738376)]
+- **Vocos: Closing the gap between time-domain and Fourier-based neural vocoders for high-quality audio synthesis** , 2024 , ICLR [[paper](https://arxiv.org/abs/2306.00814)] [[github](https://github.com/tarepan/vocos-official)] [[demo](https://gemelo-ai.github.io/vocos/)]
 - **WavTokenizer: an Efficient Acoustic Discrete Codec Tokenizer for Audio Language Modeling** , 2024 , arXiv [[paper](https://arxiv.org/pdf/2408.16532)] [[github](https://github.com/jishengpeng/WavTokenizer)] [[demo](https://wavtokenizer.github.io/)]
 - **RepCodec: A Speech Representation Codec for Speech Tokenization** , 2024 , ACL [[paper](https://arxiv.org/pdf/2309.00169)] [[github](https://github.com/mct10/RepCodec)]
 - **FunCodec: A Fundamental, Reproducible and Integrable Open-source Toolkit for Neural Speech Codec** , 2024 , arXiv [[paper](https://arxiv.org/pdf/2309.07405)] [[github](https://github.com/modelscope/FunCodec)] [[demo](https://funcodec.github.io/)]
@@ -90,6 +96,7 @@ This repo will be updated continuously ...
 - **Finite Scalar Quantization: VQ-VAE Made Simple** , 2023 , arXiv [[paper](https://arxiv.org/pdf/2309.15505)] [[github](https://github.com/google-research/google-research/tree/master/fsq)]
 - **High-Fidelity Audio Compression with Improved RVQGAN** , 2023 , NeurIPS [[paper](https://arxiv.org/pdf/2306.06546)] [[github](https://github.com/descriptinc/descript-audio-codec)]
 - Encodec: **High Fidelity Neural Audio Compression** , 2022 , arXiv [[paper](https://arxiv.org/pdf/2210.13438)] [[github](https://github.com/facebookresearch/encodec)]
+- **SoundStream: An End-to-End Neural Audio Codec** , 2021 , TASLP [[paper](https://arxiv.org/pdf/2107.03312)] [[github](https://github.com/wesbz/SoundStream)] [[demo](https://google-research.github.io/seanet/soundstream/examples/)]
 - **vq-wav2vec: Self-Supervised Learning of Discrete Speech Representations** , 2019 , arXiv [[paper](https://arxiv.org/pdf/1910.05453)]
 - VQ-VAE: **Neural Discrete Representation Learning** , 2017 , NeurIPS, [[paper](https://arxiv.org/pdf/1711.00937)] [[code](https://github.com/google-deepmind/sonnet/blob/v2/sonnet/src/nets/vqvae.py)]
 
@@ -107,6 +114,7 @@ This repo will be updated continuously ...
 - **WenetSpeech4TTS: A 12,800-hour Mandarin TTS Corpus for Large Speech Generation Model Benchmark** , 2024 , Interspeech [[paper](https://arxiv.org/pdf/2406.05763)]
 - **MSR-86K: An Evolving, Multilingual Corpus with 86,300 Hours of Transcribed Audio for Speech Recognition Research** , 2024 , Interspeech [[paper](https://www.arxiv.org/pdf/2406.18301)] [[huggingface](https://huggingface.co/datasets/Alex-Song/MSR-86K)] 
 - **YODAS: Youtube-Oriented Dataset for Audio and Speech** , 2023 , ASRU [[paper](https://arxiv.org/pdf/2406.00899)] [[demo](https://emilia-dataset.github.io/Emilia-Demo-Page/)]
+- **GigaST: A 10,000-hour Pseudo Speech Translation Corpus** , 2023 , Interspeech [[paper](https://arxiv.org/pdf/2204.03939)] [[demo](https://st-benchmark.github.io/)]
 - **AudioCaps: Generating Captions for Audios in The Wild** , 2019 , ACL [[paper](https://aclanthology.org/N19-1011.pdf)] [[demo](https://audiocaps.github.io/)]
 
 ### Benchmark<a id="paper9"></a>
@@ -114,40 +122,68 @@ This repo will be updated continuously ...
 - **AIR-Bench: Benchmarking Large Audio-Language Models via Generative Comprehension** , 2024 , ACL [[paper](https://aclanthology.org/2024.acl-long.109.pdf)] [[github](https://github.com/OFA-Sys/AIR-Bench)]
 - **SD-Eval: A Benchmark Dataset for Spoken Dialogue Understanding Beyond Words** , 2024 , arXiv [[paper](https://arxiv.org/pdf/2406.13340)] [[github](https://github.com/amphionspace/SD-Eval)]
 
-### Others<a id="paper10"></a>
+### Safety & Risk<a id="paper10"></a>
+- **GPT-4o System Card** , 2024 [[paper](https://cdn.openai.com/gpt-4o-system-card.pdf)]
+- **Safe Guard: an LLM-agent for Real-time Voice-based Hate Speech Detection in Social Virtual Reality** , 2024 , arXiv [[paper](https://arxiv.org/pdf/2409.15623)]
+- **SpeechGuard: Exploring the Adversarial Robustness of Multimodal Large Language Models** , 2024 , ACL [[paper](https://aclanthology.org/2024.findings-acl.596.pdf)]
+- **Warning: humans cannot reliably detect speech deepfakes** , 2024 , arXiv [[paper](https://arxiv.org/pdf/2301.07829)]
+
+### Others<a id="paper11"></a>
+- **Low-latency Speech Enhancement via Speech Token Generation** , 2024 , ICASSP [[paper](https://arxiv.org/pdf/2310.08981)]
+- **Genhancer: High-Fidelity Speech Enhancement via Generative Modeling on Discrete Codec Tokens** , 2024 , Interspeech [[paper](https://minjekim.com/wp-content/uploads/interspeech2024_hyang.pdf)]
 - **Text-to-Audio Generation using Instruction-Tuned LLM and Latent Diffusion Model** , 2023 , arXiv [[paper](https://arxiv.org/pdf/2304.13731)] [[github](https://github.com/declare-lab/tango)] [[demo](https://tango-web.github.io/)]
 - **AUDIT: Audio Editing by Following Instructions with Latent Diffusion Models** , 2023 , NeurIPS [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/e1b619a9e241606a23eb21767f16cf81-Paper-Conference.pdf)] [[demo](https://audioldm.github.io/)]
 - **AudioLM: a Language Modeling Approach to Audio Generation** , 2022 , arXiv [[paper](https://arxiv.org/pdf/2209.03143)] [[demo](https://google-research.github.io/seanet/audiolm/examples/)]
 
 ## Open-source Large Speech/Audio Models<a id="model"></a>
-- **Whisper** 
-  - Developed by OpenAI [[github](https://github.com/openai/whisper)] ![](https://img.shields.io/github/stars/openai/whisper.svg)
+- **Whisper**
+  - [[github](https://github.com/openai/whisper)] ![](https://img.shields.io/github/stars/openai/whisper.svg)
+  - Task: ASR
+  - Institution: OpenAI 
   - Introduction: Whisper is a general-purpose speech recognition model. It is trained on a large dataset of diverse audio and is also a multitasking model that can perform **multilingual speech recognition**, **speech translation**, and **language identification**. It supports speech recognition for 100 languages. Five model sizes are trained, including tiny(39 M), base(74 M), small(244 M), medium(769 M), large(1550 M) and the newest large v3 model is trained on 5M hours of labeled data.
 - **Seamless**
-  - Developed by Meta [[github](https://github.com/facebookresearch/seamless_communication)] ![](https://img.shields.io/github/stars/facebookresearch/seamless_communication.svg)
+  - [[github](https://github.com/facebookresearch/seamless_communication)] ![](https://img.shields.io/github/stars/facebookresearch/seamless_communication.svg)
+  - Task: ASR/S2TT/S2ST/T2TT/T2ST
+  - Institution: Meta 
   - Introduction: Seamless is a family of AI models that enable more natural and authentic communication across languages. It contains three main models, SeamlessM4T, SeamlessExpressive and SeamlessStreaming. **SeamlessM4T** is a massive multilingual multimodal machine translation model supporting around 100 languages. SeamlessM4T serves as foundation for **SeamlessExpressive**, a model that preserves elements of prosody and voice style across languages and **SeamlessStreaming**, a model supporting simultaneous translation and streaming ASR for around 100 languages. SeamlessExpressive and SeamlessStreaming are combined into Seamless, a unified model featuring multilinguality, real-time and expressive translations.
 - **SenseVoice**
-  - Developed by Alibaba [[github](https://github.com/FunAudioLLM/SenseVoice)] ![](https://img.shields.io/github/stars/FunAudioLLM/SenseVoice.svg)
+  - [[github](https://github.com/FunAudioLLM/SenseVoice)] ![](https://img.shields.io/github/stars/FunAudioLLM/SenseVoice.svg)
+  - Task: ASR 
+  - Institution: Alibaba 
   - Introduction: SenseVoice is a speech foundation model with multiple speech understanding capabilities, including automatic speech recognition (ASR), spoken language identification (LID), speech emotion recognition (SER), and audio event detection (AED).
 - **CosyVoice**
-  - Developed by Alibaba [[github](https://github.com/FunAudioLLM/CosyVoice)] ![](https://img.shields.io/github/stars/FunAudioLLM/CosyVoice.svg)
+  - [[github](https://github.com/FunAudioLLM/CosyVoice)] ![](https://img.shields.io/github/stars/FunAudioLLM/CosyVoice.svg)
+  - Task: TTS
+  - Institution: Alibaba 
 - **Qwen2-Audio**
-  - Developed by Alibaba [[github](https://github.com/QwenLM/Qwen2-Audio)] ![](https://img.shields.io/github/stars/QwenLM/Qwen2-Audio.svg)
+  - [[github](https://github.com/QwenLM/Qwen2-Audio)] ![](https://img.shields.io/github/stars/QwenLM/Qwen2-Audio.svg)
+  - Task: S2T(Voice Chat & Audio Analysis)
+  - Institution: Alibaba 
   - Introduction: The latest progress of Qwen-Audio, a large-scale audio-language model called Qwen2-Audio, which is capable of accepting various audio signal inputs and performing audio analysis or direct textual responses with regard to speech instructions. Two distinct audio interaction modes are introductioned: (1) voice chat: users can freely engage in voice interactions with Qwen2-Audio without text input; (2) audio analysis: users could provide audio and text instructions for analysis during the interaction; Two models are released of the Qwen2-Audio series: Qwen2-Audio-7B and Qwen2-Audio-7B-Instruct.
 - **SALMONN**
-  - Developed by Tsinghua University and ByteDance [[github](https://github.com/bytedance/SALMONN)] ![](https://img.shields.io/github/stars/bytedance/SALMONN.svg)
+  - [[github](https://github.com/bytedance/SALMONN)] ![](https://img.shields.io/github/stars/bytedance/SALMONN.svg)
+  - Task: S2T(General Audio Proceessing)
+  - Institution: Tsinghua University and ByteDance 
   - Introduction: SALMONN is a large language model (LLM) enabling speech, audio events, and music inputs. Instead of speech-only input or audio-event-only input, SALMONN can perceive and understand all kinds of audio inputs and therefore obtain emerging capabilities such as multilingual speech recognition and translation and audio-speech co-reasoning.
 - **Reverb**
-  - Developed by Rev [[github](https://github.com/revdotcom/reverb)] ![](https://img.shields.io/github/stars/revdotcom/reverb.svg)
+  - [[github](https://github.com/revdotcom/reverb)] ![](https://img.shields.io/github/stars/revdotcom/reverb.svg)
+  - Task: ASR & Speech Diarization
+  - Institution: Rev 
   - Introduction: Open source inference and evaluation code for Rev's state-of-the-art speech recognition and diarization models. The speech recognition (ASR) code uses the WeNet framework and the speech diarization code uses the Pyannote framework. Reverb ASR was trained on **200,000 hours** of English speech, all expertly **transcribed by humans**. The speech recognition models released outperform all existing open source speech recognition models across a variety of long-form speech recognition domains.
 - **NVIDIA NeMo ASR**
-  - Developed by NVIDIA [[github](https://github.com/NVIDIA/NeMo)] ![](https://img.shields.io/github/stars/NVIDIA/NeMo.svg)
+  - [[github](https://github.com/NVIDIA/NeMo)] ![](https://img.shields.io/github/stars/NVIDIA/NeMo.svg)
+  - Task: ASR
+  - Institution: NVIDIA 
   - Introduction: NVIDIA NeMo team released a number of inference optimizations for CTC, RNN-T, and TDT models that resulted in up to 10x inference speed-up. These models now exceed an inverse real-time factor (RTFx) of 2,000, with some reaching RTFx of even 6,000.
 - **Westlake-Omni**
-  - Developed by xinchen-ai [[github](https://github.com/xinchen-ai/Westlake-Omni)] ![](https://img.shields.io/github/stars/xinchen-ai/Westlake-Omni.svg)
+  - [[github](https://github.com/xinchen-ai/Westlake-Omni)] ![](https://img.shields.io/github/stars/xinchen-ai/Westlake-Omni.svg)
+  - Task: S2S(Speech Interaction)
+  - Institution: xinchen-ai 
   - Introduction: Westlake-Omni is an open-source Chinese emotional speech interaction large language model that utilizes discrete representations to achieve unified processing of speech and text modalities. The model supports low-latency generation and high-quality Chinese emotional speech interaction.
 - **GLM-4-Voice**
-  - Developed by Zhipu AI [[github](https://github.com/THUDM/GLM-4-Voice)] ![](https://img.shields.io/github/stars/THUDM/GLM-4-Voice.svg)
+  - [[github](https://github.com/THUDM/GLM-4-Voice)] ![](https://img.shields.io/github/stars/THUDM/GLM-4-Voice.svg)
+  - Task: S2S(Speech Interaction)
+  - Institution: Zhipu AI 
   - Introduction: GLM-4-Voice is an end-to-end voice model launched by Zhipu AI. GLM-4-Voice can directly understand and generate Chinese and English speech, engage in real-time voice conversations, and change attributes such as emotion, intonation, speech rate, and dialect based on user instructions.
 
 ## Datasets<a id="datasets"></a>
