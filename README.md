@@ -43,7 +43,7 @@ This repo will be updated continuously ...
 - **Macaw-LLM: Multi-Modal Language Modeling with Image, Audio, Video, and Text Integration** , 2023 , arXiv [[paper](https://arxiv.org/pdf/2306.09093)] [[github](https://github.com/lyuchenyang/Macaw-LLM)]
 #### Real-time interaction
 - **Language Model Can Listen While Speaking** , 2024 , arXiv [[paper](https://arxiv.org/pdf/2408.02622)] [[demo](http://ziyang.tech/LSLM/)]
-- **SLAM-Omni: Timbre-Controllable Voice Interaction System with Single-Stage Training** , 2024 , arXiv [[paper](https://arxiv.org/pdf/2412.15649)]
+- **SLAM-Omni: Timbre-Controllable Voice Interaction System with Single-Stage Training** , 2024 , arXiv [[paper](https://arxiv.org/pdf/2412.15649)] [[demo](https://slam-omni.github.io/)]
 - **SALMONN-omni: A Codec-free LLM for Full-duplex Speech Understanding and Generation** , 2024 , arXiv [[paper](https://arxiv.org/pdf/2411.18138)]
 - **Advancing Speech Language Models by Scaling Supervised Fine-Tuning with Over 60,000 Hours of Synthetic Speech Dialogue Data** , 2024 , arXiv [[paper](https://arxiv.org/pdf/2412.01078)]
 - **Freeze-Omni: A Smart and Low Latency Speech-to-speech Dialogue Model with Frozen LLM** , 2024 , arXiv [[paper](https://arxiv.org/pdf/2411.00774)] [[github](https://github.com/VITA-MLLM/Freeze-Omni)] [[demo](https://freeze-omni.github.io/)]
