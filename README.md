@@ -23,6 +23,7 @@ This repo will be updated continuously ...
 
 ## Papers<a id="paper"></a>
 ### Survey<a id="paper1"></a>
+- **WavChat: A Survey of Spoken Dialogue Models** , 2024 , arXiv [[paper](https://arxiv.org/pdf/2411.13577)] [[github](https://github.com/jishengpeng/WavChat)]
 - **Recent Advances in Speech Language Models: A Survey** , 2024 , arXiv [[paper](https://arxiv.org/pdf/2410.03751)]
 - **A Comprehensive Survey on Deep Multimodal Learning with Missing Modality** , 2024 , arXiv [[paper](https://arxiv.org/pdf/2409.07825)]
 - **A Comprehensive Review of Multimodal Large Language Models: Performance and Challenges Across Different Tasks** , 2024 , arXiv [[paper](https://arxiv.org/pdf/2408.01319)]
@@ -52,6 +53,7 @@ This repo will be updated continuously ...
 - **LLaMA-Omni: Seamless Speech Interaction with Large Language Models** , 2024 , arXiv [[paper](https://arxiv.org/pdf/2409.06666)] [[github](https://github.com/ictnlp/LLaMA-Omni)]
 - **Mini-Omni: Language Models Can Hear, Talk While Thinking in Streaming** , 2024 , arXiv [[paper](https://arxiv.org/pdf/2408.16725)] [[github](https://github.com/gpt-omni/mini-omni)]
 #### Speech/Audio understanding & generation
+- **GAMA: A Large Audio-Language Model with Advanced Audio Understanding and Complex Reasoning Abilities** , 2024 , arXiv [[paper](https://arxiv.org/pdf/2406.11768)] [[github](https://github.com/Sreyan88/GAMA)] [[demo](https://sreyan88.github.io/gamaaudio/)]
 - **WavLLM: Towards Robust and Adaptive Speech Large Language Model** , 2024 , EMNLP [[paper](https://arxiv.org/pdf/2404.00656)] [[github](https://github.com/microsoft/SpeechT5/tree/main/WavLLM)]
 - **EMOVA: Empowering Language Models to See, Hear and Speak with Vivid Emotions** , 2024 , arXiv [[paper](https://arxiv.org/pdf/2409.18042)] [[demo](https://emova-ollm.github.io/)]
 - **MooER: LLM-based Speech Recognition and Translation Models from Moore Threads** , 2024 , arXiv [[paper](https://arxiv.org/pdf/2408.05101)]  [[github](https://github.com/MooreThreads/MooER)]
@@ -198,12 +200,18 @@ This repo will be updated continuously ...
   - Task: S2S(Speech Interaction)
   - Institution: Zhipu AI 
   - Introduction: GLM-4-Voice is an end-to-end voice model launched by Zhipu AI. GLM-4-Voice can directly understand and generate Chinese and English speech, engage in real-time voice conversations, and change attributes such as emotion, intonation, speech rate, and dialect based on user instructions.
+- **MiniCPM-o**
+  - [[github](https://github.com/OpenBMB/MiniCPM-o)] ![](https://img.shields.io/github/stars/OpenBMB/MiniCPM-o.svg)
+  - Task: S2S(Multi-modal LLM)
+  - Institution: THUNLP & Modelbest
+  - Introduction: MiniCPM-o is the latest series of end-side multimodal LLMs (MLLMs) ungraded from MiniCPM-V. The models can now take image, video, text, and audio as inputs and provide high-quality text and speech outputs in an end-to-end fashion.
 
 ## Datasets<a id="datasets"></a>
 Only common benchmarks and large-scale training datasets are listed here.
 - Speech Recognition & Translation
 - Speech Synthesis
 - Audio Caption
+- Audio Question Answering
 
 |datasets|language|task|duration/hours|
 | :---- | :---: | :---: | :---: |
@@ -223,6 +231,7 @@ Only common benchmarks and large-scale training datasets are listed here.
 | Emilia [[download](https://huggingface.co/datasets/amphion/Emilia-Dataset)] | Multilingual | TTS | 101k |
 | fleurs [[download](https://huggingface.co/datasets/google/fleurs)] | Multilingual | ASR/ST/MT | 10 |
 | AudioCaps [[download](https://huggingface.co/datasets/d0rj/audiocaps)] | - | AC | - |
+| VoiceAssistant-400K [[download](https://huggingface.co/datasets/gpt-omni/VoiceAssistant-400K)] | English | AQA | - |
 
 ## Tools<a id="tool"></a>
 - **Silero VAD**: A pre-trained enterprise-grade Voice Activity Detector. [[github](https://github.com/snakers4/silero-vad)]
