@@ -1,8 +1,6 @@
 # Awesome-Large-Speech-Model
 A repository used to organize content related to Large Speech(Audio) Model, including paper, data, applications, tools and so on.
 
-This repo will be updated continuously ...
-
 ## outline
 - [Papers](#paper)
   - [Survey](#paper1)
