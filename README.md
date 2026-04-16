@@ -253,3 +253,4 @@ Only common benchmarks and large-scale training datasets are listed here.
 - **Suno** [[link](https://suno.com/)]
 - **Google Illuminate** [[link](https://illuminate.google.com/home?pli=1)]
 - **ElevenLabs** [[link](https://elevenlabs.io/)]
+- **voicetoinstrument.com** [[link](https://voicetoinstrument.com)] — Convert voice to instrumental tracks using AI
